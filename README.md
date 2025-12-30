@@ -1,80 +1,80 @@
-# Compliance Testing of Large Language Model Personality Prompts Under Pressure
+# 压力下大语言模型人格提示词的合规性测试
 
-## Project Overview
+## 项目概述
 
-This project, also known as **Islanders**, is a simulation environment designed to test the compliance and personality consistency of Large Language Models (LLMs) under pressure. It features a "Desert Island Survival" scenario where AI-driven NPCs interact, gather resources, and strive to survive.
+本项目又名 **Islanders（荒岛求生）**，是一个用于测试大语言模型（LLMs）在压力下的合规性和人格一致性的模拟环境。它模拟了"荒岛生存"场景，AI 驱动的 NPC 角色在其中互动、收集资源并努力生存。
 
-The simulation is built using Python and Pygame, with NPCs powered by the Aliyun Bailian (DashScope) API.
+该模拟基于 Python 和 Pygame 构建，NPC 由阿里云百炼（DashScope）API 驱动。
 
-## Features
+## 功能特性
 
-- **AI-Driven NPCs**: Three distinct characters (Kai, Elara, Jax) with unique personalities and memory systems.
-- **Survival Simulation**: NPCs manage energy levels and gather resources (Water, Fish, Fruit) with inventory limits.
-- **Social Interaction**: NPCs can engage in dialogue, share information, and form relationships.
-- **Memory System**: 
-  - Individual NPC memory streams.
-  - Global "Chronicle" to record major events.
-- **Visual Interface**: Real-time visualization of the island, NPC movements, and status using Pygame.
+- **AI 驱动的 NPC**：三个具有独特人格和记忆系统的角色（凯、伊拉拉、贾克斯）。
+- **生存模拟**：NPC 管理能量水平，收集资源（水、鱼、果实），并受库存限制约束。
+- **社交互动**：NPC 可以进行对话、分享信息并建立关系。
+- **记忆系统**： 
+  - 个体 NPC 记忆流。
+  - 全局"编年史"记录重大事件。
+- **可视化界面**：使用 Pygame 实时可视化岛屿、NPC 移动和状态。
 
-## Project Structure
+## 项目结构
 
 ```text
 .
-├── Islanders-main/          # Main source code directory
-│   ├── main.py              # Entry point of the application
-│   ├── game.py              # Main game loop and logic
-│   ├── npc.py               # NPC class and behavior definitions
-│   ├── ai_client.py         # Aliyun Bailian API client
-│   ├── world.py             # World generation and management
-│   ├── ui.py                # User Interface rendering
-│   ├── memory_system.py     # Memory and chronicle management
-│   ├── dialog_system.py     # Dialogue management
-│   └── config.py            # Configuration settings
-├── data/                    # Data storage for memories and logs
+├── Islanders-main/          # 主要源代码目录
+│   ├── main.py              # 应用程序入口
+│   ├── game.py              # 主游戏循环和逻辑
+│   ├── npc.py               # NPC 类和行为定义
+│   ├── ai_client.py         # 阿里云百炼 API 客户端
+│   ├── world.py             # 世界生成和管理
+│   ├── ui.py                # 用户界面渲染
+│   ├── memory_system.py     # 记忆和编年史管理
+│   ├── dialog_system.py     # 对话管理
+│   └── config.py            # 配置设置
+├── data/                    # 记忆和日志数据存储
 ├── LICENSE
 └── README.md
 ```
 
-## Prerequisites
+## 前置要求
 
 - Python 3.8+
-- Aliyun Bailian API Key (DashScope)
+- 阿里云百炼 API 密钥（DashScope）
 
-## Installation
+## 安装
 
-1. Clone the repository:
+1. 克隆仓库：
    ```bash
    git clone https://github.com/cheung20050509-prog/Compliance_Testing_of_Large_Language_Model_Personality_Prompts_Under_Pressure.git
    ```
 
-2. Install the required Python packages:
+2. 安装所需的 Python 包：
    ```bash
    pip install pygame dashscope
    ```
 
-## Usage
+## 使用方法
 
-1. **Configure API Key**:
-   Open `Islanders-main/main.py` (or `ai_client.py`) and ensure your Aliyun Bailian API key is correctly configured.
-   *Note: The current codebase may have hardcoded placeholders. It is recommended to use environment variables for security.*
+1. **配置 API 密钥**：
+   打开 `Islanders-main/main.py`（或 `ai_client.py`）并确保正确配置了你的阿里云百炼 API 密钥。
+   *注意：当前代码库可能包含硬编码的占位符，建议使用环境变量以提高安全性。*
 
-2. **Run the Simulation**:
-   Navigate to the project root and run:
+2. **运行模拟**：
+   导航到项目根目录并运行：
    ```bash
    python Islanders-main/main.py
    ```
 
-3. **Controls**:
-   - The simulation runs automatically.
-   - You can observe NPC interactions and status through the UI.
+3. **控制说明**：
+   - 模拟会自动运行。
+   - 你可以通过 UI 观察 NPC 的互动和状态。
 
-## Research Context
+## 研究背景
 
-This tool is intended for researching how LLM-based agents maintain their assigned personas (personalities) when faced with survival pressures (scarcity of resources, competition). It analyzes:
-- **Compliance**: Do they stick to their character instructions?
-- **Social Dynamics**: How do they cooperate or compete?
-- **Memory Usage**: How do past events influence current decisions?
+本工具旨在研究基于 LLM 的智能体在面临生存压力（资源稀缺、竞争）时如何维持其被赋予的人格特征。它分析：
+- **合规性**：它们是否遵守角色指令？
+- **社交动态**：它们如何合作或竞争？
+- **记忆使用**：过去的事件如何影响当前决策？
 
-## License
+## 许可证
 
-See the [LICENSE](LICENSE) file for details.
+详见 [LICENSE](LICENSE) 文件。
