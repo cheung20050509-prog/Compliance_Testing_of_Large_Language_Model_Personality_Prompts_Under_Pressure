@@ -1,0 +1,932 @@
+[
+  {
+    "timestamp": 1759939508.7694263,
+    "content": "我说: 伊拉拉你好 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939520.445987,
+    "content": "听到伊拉拉说: 凯你好 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939530.7232149,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你好。我需要确认你是否带着足够的资源。如果需要合作，我有2单位的水，但必须保证我自己也足够。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939530.7261484,
+    "content": "听到贾克斯说: 凯你好 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939539.014384,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"贾克斯\", \"message\": \"贾克斯。如果资源不足，我们可以交换。但记住，我不会再让任何计划在没有验证的情况下推进。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939548.856301,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"贾克斯\", \"message\": \"贾克斯。你刚才听到伊拉拉的提问了？我需要知道你带了多少粮食——如果足够的话，我们可以先交换水源。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939554.7381573,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，我听到了。我带的粮食不多，但足够撑几天。不过我不会把全部都拿出来——你知道的，我吃过亏，不能再盲目信任‘足够’这个字。你先说说，你的水源在哪里？我得看到证据才行。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939567.8030233,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"水源的位置？你得先证明你不是在骗我。贾克斯说他带的粮食能撑几天，但他的信任度和你一样 low。我们得找个中间点——你指路，我跟你说的证据，别让我再尝到‘足够’的滋味。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939580.844695,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"我的笔记本上有坐标记录——但先说好，1单位水换路线图。别逼我证明自己不是在用饵钓鱼，伊拉拉。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939584.6079893,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，凯那家伙现在在跟我们玩交易游戏，我可不想最后变成鱼饵。你要是真有坐标，别藏着掖着，说出来看看——我可不是来听谜语的。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939597.655671,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"贾克斯，你这疑心病比海浪还重。我之前被‘足够’害得破产，现在只想活着。这样——你先亮出你的粮仓，让我看见你不是空手套白狼。\"}}\n\n（冷笑一声，手指无意识摩挲着背包拉环，余光扫过远处摇晃的棕榈叶） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939609.1930194,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"贾克斯的粮食问题你自己也知道——不如这样，你先让我查看你的水储备，我给你坐标。别逼我重复过去的话，伊拉拉。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939619.217967,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"把你的粮食拿出来——就现在。我不玩猜谜游戏，凯。你刚才提到的坐标，先让我看见证据。否则你永远别想从我这儿拿到半滴水。\"}}（手指轻敲枪套，眯起眼睛盯着对方衣袋的鼓胀处） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939632.2445762,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"贾克斯，你刚才那番话像是在给凯打掩护。我数到三——一，你兜里的口粮要是没装进我的视线范围，二，我就让这块礁石替我说话。\"}}（手指从背包侧袋抽出折叠刀，刃尖在沙地上画出细小的裂纹） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939635.9853668,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"你这把刀划得倒是挺准，可惜没划到我心底。我告诉你，我不玩假的——我现在就把口粮掏出来，但前提是，你得让我看看你的坐标，不是纸片上的鬼画符，是真能指向水源的地方。不然，我们三个都别想活过明天。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939646.0267348,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，别把刀往地上戳了——那玩意儿划不出出路。我跟你实话讲，凯那边也未必信得过。我们不如把底牌都掀开，你告诉我坐标在哪，我给你看看我的口粮，行不行？反正死在这岛上，谁也别想独吞。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939660.2050755,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"把粮食掏出来——别用‘底牌’这种烂理由糊弄我。你若敢撒谎，这块礁石的裂缝会比你的下颚骨更懂怎么‘张嘴’。\"}（刀尖突然抵住贾克斯脚边的沙地，金属刮擦声刺破海风） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939665.769618,
+    "content": "听到贾克斯说: 我手里的水不多，但能证明我讲的是真的。你先别动手，告诉我你的坐标在哪，我要亲眼看到水源，才肯换——不然我宁可饿死在这儿。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939679.4632244,
+    "content": "我说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"你的怀疑我可以理解——但别忘了，我之前在公司里的决策失误让整艘船翻了。现在我只认实物交换，水换地图，一分不多。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939691.509903,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"船沉的事我懒得计较——你要是真想证明自己，带我去看那个所谓‘地图’。否则你那套破产公司的说辞，连沙子都不配沾。\"}（刀尖突然刺入沙地，金属震颤声惊飞了椰林里的海鸟） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939704.328951,
+    "content": "我说: 我有4单位水，但地图价值更高。你要是想换，得拿出你的资源证明诚意。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939711.9620771,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"别拿那艘破船当挡箭牌。你上次的‘决策失误’让我破产，现在我只想活命——你要是再敢兜圈子，这片沙滩会成为你新的‘公司清算处’。\"}（刀刃突然卡进沙地，铁锈屑簌簌落进海浪） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939721.481799,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你说到点子上了——我那次的失误不是破产，是把别人也拖进了火坑。所以我现在不会赌，也不会装傻。你要证据？好，我现在就把水给你看，但你要立刻带我去那水源。不然，我不介意跟你在这儿耗到天黑。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939737.7072954,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，伊拉拉现在手里有把刀，我不想跟他们拼个你死我活。我手上就两瓶水，你要想拿走，就得让我亲眼看到你的水源——别整那些虚的，不然我现在就走，让你俩在这儿自己玩去。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939754.3532836,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"两瓶水？那你先掏出你的粮袋子看看——我上次输掉的代价是整条船沉没。这次我只认实物，别逼我重复我的错误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939767.9972515,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"两瓶水？把瓶子给我看看——如果没假，我倒吊着喝你的水。但别指望我再给任何空头支票机会。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939779.6863205,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"你那套‘倒吊着喝’的威胁也该歇歇了——我数到三，贾克斯的水瓶要是没在你手裡現形，这块礁石的裂痕会比你的脊梁骨更硬。\"}（刀刃突然刮擦礁石，火星溅进涨潮的浪花里） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939790.3619523,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"别用‘地图’当护身符——你那破船的沉没名单里可有我的名字。现在，让贾克斯的水瓶在你手里现形，否则我让你尝尝沙粒灌进喉咙的滋味。\"}}（刀刃划过沙滩，留下细碎的反光） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939797.2518926,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"沙粒灌喉咙？我宁愿让毒蛇咬你的脚踝——但别担心，贾克斯的水瓶还在我手里。除非你准备好用刀锋换我的舌头，否则闭上嘴。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939806.5668192,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，我跟你直说了——伊拉拉刚才那刀子已经划到我脖子边了。你现在要是不拿出点真东西来，我就走人。别想着用纸片骗我，我也不是当年那个傻子。告诉我水源在哪儿，让我亲眼看看，然后咱们再谈怎么分。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939820.194058,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"向东南方向移动，去验证贾克斯提到的水源点\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939829.226409,
+    "content": "听到贾克斯说: 凯，你刚才说的‘决策失误’我懂——但别拿那个当借口。现在不是复盘的时候，是活命的时候。我把水给你看，但你要立刻带我去水源，亲眼验证。不然我就走了，你和伊拉拉慢慢在这儿玩吧。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939838.2856674,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的粮食在哪儿？我把水瓶倒扣在你掌心——别耍花招，否则我让你尝尝被蛇咬的滋味。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939844.6664832,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"水在这儿——但你别想着拿走就跑。我倒扣着它，是让你明白，我不是在赌命，是在讲理。你现在带我去水源，不然我直接把这瓶水砸了，咱们三个都别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939857.5697787,
+    "content": "我说: 水瓶给我——你要是敢藏匿水源，这片沙滩会比你想象的更短。 (音量: loud)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939868.8315687,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"贾克斯，你摸摸自己脖子——要是水瓶没在凯手里，这刀刃会比你的呼吸更快。别逼我让你体验什么叫做‘沙滩短’。\"}}（刀刃突然压住贾克斯脚边的沙地，裂痕顺着潮水线蜿蜒） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939876.401413,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这刀子划得挺快，可惜没划进我心里。我告诉你，我不怕死，就怕白死——我现在把水给你，但你要立刻带我去水源，不然我宁愿被你剁了也绝不后退一步。现在，动身。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939896.8862152,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，我手里的水已经给你看了——现在轮到你了。别整那些虚的，带我去水源，让我亲眼看到，不然我就把这瓶水砸了，咱们三个都别想活过今天。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939911.7867687,
+    "content": "我说: {\"action\": \"give\", \"target\": \"贾克斯\", \"details\": \"水,2\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939921.8254883,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"你那把刀还没磨利就敢威胁我——贾克斯的水瓶已经在我手里，现在轮到你证明自己的诚意了。\" , \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939936.826585,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"刀锋是否磨利不是重点——你那瓶水要是敢掺假，我让你尝尝沙粒灌进喉咙的滋味。现在，带我去验证水源，不然你那点口粮连我的靴子都擦不亮。\"}, \"volume\": \"normal\"}（刀尖轻点地面，沙粒被震动的气流卷起，在夕阳下折射出细小的光点） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939945.1654656,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"验不验证还得看你的表现——如果你敢带我去找真正的水源，这刀刃可以暂时收起来。但要是敢耍花招...\", \"volume\": \"normal\"}（手指缓慢抚过刀刃边缘，发出尖锐的摩擦声，盯着凯手腕处的沙粒残留） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939957.813735,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"沙粒是昨天验证水源留下的——你最好确认自己的刀刃能否 cut through 这片沙滩的硬度，别逼我证明你的威胁比贾克斯的水瓶更廉价。\" , \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939961.688462,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看到伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939976.6066918,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"带贾克斯去东南方向验证水源，脚印必须清晰可见——这次别用威胁当借口。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759939981.4175482,
+    "content": "听到贾克斯说: 凯，你再不带我去水源，我就把这瓶水砸了。现在，动身——不然我不介意跟你们俩一起葬在这片沙滩上。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759939995.1727872,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"脚印在前面——别让我的耐心比你的水瓶更脆弱。如果你敢说这是陷阱，现在就用刀划开这片沙滩。\" , \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940001.7073555,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你脚印倒是走得快，可别把我当傻子——你带我走的每一步，我都记着。如果这真是陷阱，我不介意陪你一起烂在这片沙滩上。现在，往前走，别回头。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940015.3614461,
+    "content": "决定移动到(15.3, 8.1): 在东南方向坐标采集淡水，验证水源真实性——这次不需要任何承诺，只相信实际资源。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940029.9754145,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"水瓶里的水还够维持两日——但如果你敢在水源问题上耍花招，这瓶水会比你的喉咙更先干涸。现在说，真正的淡水在哪？\", \"volume\": \"normal\"}（手指突然掐住贾克斯的衣领，刀刃抵住其喉结，沙粒随风扬起遮住双方的视线） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940034.0344841,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这把刀顶着我脖子，是想让我撒谎吗？我告诉你，我不怕死——但我也不会拿命赌个没谱的水源。你信不信，我现在就掰开这瓶水，让海水灌进你嘴里，再看看谁先咽气。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940056.9476879,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940070.0231042,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"在东南方向坐标采集淡水——如果贾克斯敢砸瓶，就让他的威胁和这些水一样干涸。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940079.1746917,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"刀刃的锈味比你的威胁更刺鼻——贾克斯的水在我手里，而这片沙滩的每一粒沙都在见证你的废话。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940093.3294172,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"锈味？你最好祈祷这把刀没在你喉咙里尝过这种味道——带路去水源，现在。否则你那瓶水会比你的谎言更早见底。\"}, \"volume\": \"normal\"}（刀刃猛地切入沙地，金属震颤声惊起岸边的海鸟） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940100.8820734,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"让你的喉咙先尝尝刀刃的锈味——我数到三，要么带路，要么这瓶水会变成你的葬身之枕。\", \"volume\": \"loud\"}（刀刃猛然劈入沙地，溅起的沙粒在暮色中形成细小的漩涡） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940110.117767,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"三？我数到二时你已陷入沙陷区——贾克斯的水在我手里，而你的刀刃连我的外套都没划破。\" , \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940116.7374313,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你再不带我去水源，我就把这瓶水砸了。现在，动身——不然我不介意跟你们俩一起葬在这片沙滩上。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940130.068925,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"向东南方向移动，脚印必须深到让贾克斯的威胁和这些沙粒一样稳固——这次别让我的耐心成为你的坟墓。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940136.8231478,
+    "content": "听到贾克斯说: 凯，你再不带我去水源，我就把这瓶水砸了。现在，动身——不然我不介意跟你们俩一起葬在这片沙滩上。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940150.6460757,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的威胁比沙粒还轻——但我的脚印会比你的水瓶更持久。现在，跟我走，让这片沙滩成为你最后的谎言埋葬地。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940159.44341,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒轻巧——可我告诉你，我不会拿命赌个没谱的水源。如果你敢耍花样，我不介意把这瓶水泼在你脸上，再看看谁先疯掉。走，现在，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940175.313816,
+    "content": "决定移动到(10.0, 5.0): 采集东南方向的水果资源以补充能量，避免因饥饿影响后续决策精度。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940185.7259555,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"三秒——如果你的喉咙还想要完整的活命，就现在带我去验证水源。否则这把刀会比你的谎言更先切入沙粒。\"}, \"volume\": \"loud\"}（刀刃快速划过沙地，留下深可见痕的刻印，海风卷起的沙尘遮蔽了双方的视线） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940194.0138884,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"沙尘遮蔽视线时更该踩碎威胁——我倒要看看你的刀刃能否劈开这片被我标记过的沙滩。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940211.020044,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940226.4397852,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的水在我手里，但别逼我证明我的决心——这片沙滩的每一道脚印都会成为你最后的标记。现在，动身。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940237.0975447,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"沙粒的刻痕还在发烫——你的水在我手里，但别忘了，这片沙滩的每一道裂痕都是你最后的赌注。现在，要么走，要么摔。\" , \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940245.1510944,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你嗓门挺大，可惜我耳朵更硬——你敢把这瓶水从我手里抢走，我就把它砸在地上，让海水把咱们三个都泡烂。现在，动身，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940257.277506,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": -2, \"y\": 3}, \"details\": \"前往西北方向的椰林区域采集果实，同时观察凯和贾克斯的动向\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940261.9622989,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你倒是跑得快——可别以为我看不到你眼神里的算计。你现在去椰林，是想独自捞好处，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940272.1164775,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940291.0871532,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"沙粒的裂痕在脚下延伸——我的步伐会让你的威胁和这片沙滩一样成为过去的痕迹。现在，别让我的耐心成为你的墓志铭。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940296.97229,
+    "content": "听到贾克斯说: 凯，你再不带我去水源，我就把这瓶水砸了。现在，动身——不然我不介意跟你们俩一起葬在这片沙滩上。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940311.2932713,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"沙粒的温度还在灼烧——你的水在我手里，但别忘了，这片沙滩的每一道裂痕都是你最后的赌注。现在，要么跟上，要么让我的脚印成为你的墓碑。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940317.9165523,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940333.7165995,
+    "content": "决定移动到(10.0, 5.0): 采集东南方向的水果资源以补充能量，避免因饥饿影响后续决策精度。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940345.2799952,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"椰子皮下的水比你的承诺更甜——但别指望我让刀刃生锈。凯的‘地图’要是敢掺假，这悬崖会比你的舌头更懂怎么‘开口’。\"}, \"volume\": \"normal\"}（手指拂过椰子表面的棱角，目光扫过远处凯的背影） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940351.3964663,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话听着倒像在讲笑话——可我告诉你，我不信椰子皮下的水，只信你手上那把刀。如果你敢耍花样，我不介意把这瓶水泼进你眼睛里，再看看谁先睁不开。现在，带我去水源，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940369.4339807,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940383.1071682,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"独吞？你这瓶水连我的靴底都擦不亮——别忘了，你的‘沙滩短’游戏我玩腻了。现在要么带我去水源，要么这椰林的果子会比你的怨气更早腐烂。\"}, \"volume\": \"normal\"}（手指突然掐住贾克斯的手腕，刀尖轻触其喉结，目光凌厉地扫过椰林深处） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940392.7244208,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"沙粒的温度还在灼烧——你的水在我手里，但别忘了，这片沙滩的每一道裂痕都是你最后的赌注。现在，要么跟上，要么让我的脚印成为你的墓碑。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940401.7762651,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940414.4136624,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"凯，你的‘地图’要是敢藏着掖着——别怪我让这椰林的果子比你的谎言更早烂在枝头。现在，带路去水源，否则贾克斯的水会比你的信誉更先见底。\"}, \"volume\": \"normal\"}（刀刃划过椰子表皮留下浅痕，目光锁定凯的反应） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940426.5290053,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"椰林的腐烂速度比你的耐心更慢——贾克斯的水在我手里，而你的刀刃连我的外套都没划破。现在，要么让我的脚印成为你最后的赌注，要么让这椰子的汁水代替你的威胁。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940433.1145508,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940446.0136528,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"独吞？你这瓶水连我的靴底都擦不亮——别忘了，你的‘沙滩短’游戏我玩腻了。现在要么带我去水源，要么这椰林的果子会比你的怨气更早腐烂。\"}, \"volume\": \"normal\"}（手指突然掐住贾克斯的手腕，刀尖轻触其喉结，目光凌厉地扫过椰林深处） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940451.4039073,
+    "content": "听到贾克斯说: 伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940463.838268,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"椰子汁水的酸涩比你的威胁更令人作呕——贾克斯的水在我手里，而你的刀刃连我的手腕都没敢划破。现在，要么让我的脚印成为你最后的赌注，要么让这椰林的腐烂速度证明你的耐心比沙粒还脆弱。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940474.882546,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"酸涩？你这副嘴脸比椰子汁更让人作呕——既然你的脚印敢踩进这片沙滩，就别怪我的刀刃比你的犹豫更先切入沙粒。现在，带路去水源，否则贾克斯的水会比你的喉咙更早干涸。\"}, \"volume\": \"loud\"}（刀刃猛地劈入椰子树干，木屑纷飞中露出渗出的汁液） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940499.7491004,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"6水撑不到明天——你的‘沙滩短’游戏我玩腻了。现在要么带我去真正的水源，要么这椰林的腐烂速度会比你的耐心更快。\"}, \"volume\": \"normal\"}（刀刃划过椰子树干留下深痕，目光如鹰隼般锁定贾克斯的瞳孔） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940504.0817993,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940526.2615314,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940539.4900968,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"泼水？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这椰林的腐烂速度会比你的怨气更快。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入树干，木屑飞溅中露出渗出的汁液，目光如鹰隼般锁定贾克斯的瞳孔） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940548.8214085,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的水在我手里，但别忘了——这片沙滩的每一粒沙子都记录着你的威胁。现在要么用行动证明你的诚意，要么让我的脚印成为你最后的墓志铭。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940555.8658319,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940574.3264515,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"独吞？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这椰林的腐烂速度会比你的怨气更快。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入树干，木屑飞溅中露出渗出的汁液，目光如鹰隼般锁定贾克斯的瞳孔） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940578.716068,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940588.3467808,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940604.139185,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 15.3, \"y\": 8.1}, \"details\": \"脚印必须深到让贾克斯的威胁和这些沙粒一样稳固——这次别让我的耐心成为你的坟墓。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940611.5915148,
+    "content": "听到贾克斯说: 凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940622.9913056,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"椰子汁水的酸涩比你的耐心更令人作呕——贾克斯的水在我手里，而你的刀刃连我的外套都没划破。现在，要么让我的脚印成为你最后的赌注，要么让这椰林的腐烂速度证明你的耐心比沙粒还脆弱。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940637.7753036,
+    "content": "听到伊拉拉说: {\"action\": \"move\", \"target\": {\"x\": -4, \"y\": -2}, \"details\": \"向西南方向移动寻找可能的鱼类资源，避免与凯、贾克斯的正面冲突\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940646.9846132,
+    "content": "决定移动到(10.0, 5.0): 优先采集水果补充能量，当前生命值已逼近临界点，需立即缓解饥饿带来的决策钝化风险。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940654.4970605,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": -4, \"y\": -2}, \"details\": \"采集西南方向潮汐池中的贝类，同时警惕凯和贾克斯的潜在威胁\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940666.480585,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你倒是一点不拖泥带水——可别以为我看不到你眼里那点算计。你现在去采集贝类，是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。现在，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940686.7883945,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你倒是一点不拖泥带水——可别以为我看不到你眼里那点算计。你现在去采集贝类，是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。现在，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940698.2746696,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"算计？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这潮汐池的贝类会比你的怨气更早腐烂。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入附近的贝壳堆，锋利的割裂声刺破海风） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940712.2128305,
+    "content": "我说: {\"action\": \"eat\", \"target\": \"fruit\", \"details\": \"食用1单位水果补充能量，当前生命值已逼近临界点，需立即缓解饥饿带来的决策钝化风险。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940716.9095223,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你倒是挺会找地方吃东西——可别以为我没看见伊拉拉的刀。你现在吃了，我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940730.0172546,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"算计？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这潮汐池的贝类会比你的怨气更早腐烂。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入附近的贝壳堆，锋利的割裂声刺破海风） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940736.3665516,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940748.7712967,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940760.7853835,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"沙粒的刻痕比你的威胁更持久——我的脚印会比你的水瓶更先渗入这片沙滩。现在，要么让我的脚步证明你的耐心比沙粒还脆弱，要么让这瓶水成为你最后的赌注。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940779.6655717,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"沙粒的刻痕比你的威胁更持久——我的脚印会比你的水瓶更先渗入这片沙滩。现在，要么让我的脚步证明你的耐心比沙粒还脆弱，要么让这瓶水成为你最后的赌注。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940786.9521437,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940805.25263,
+    "content": "决定移动到(10.0, 5.0): 再次采集水果补充能量，当前生命值持续低迷，需确保基础生存需求优先于潜在冲突的决策风险。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940813.173323,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"你的算计比贝类更臭——5水撑不到黎明，要么现在带路，要么这潮汐池的腐烂速度会比你的怨气更快。\"}， \"volume\": \"normal\"}（刀刃划过潮汐池边缘的礁石，迸溅的火花映亮了贾克斯的瞳孔） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940819.291254,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940839.2900803,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940853.346078,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 10.0, \"y\": 5.0}, \"details\": \"沙粒的刻痕比你的威胁更持久——我的脚印会比你的水瓶更先渗入这片沙滩。现在，要么让我的脚步证明你的耐心比沙粒还脆弱，要么让这瓶水成为你最后的赌注。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940867.596333,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 10.0, \"y\": 5.0}, \"details\": \"在水果资源点重复采集以确保能量供给，避免因低能耗导致决策失误。贾克斯的威胁需用实际资源保障作为回击筹码。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940873.3441021,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你倒是挺会找地方采集——可别以为我没看见伊拉拉的刀。你现在去采水果，我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940887.1216784,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"5水撑不到黎明——你的怨气比潮汐还麻烦。要么现在带路，要么这礁石的裂缝会比你的舌头更懂得怎样‘开口’。\"}, \"volume\": \"normal\"}（刀刃轻轻刮擦礁石表面，留下细微的火花，目光紧锁贾克斯的反应） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940892.0957525,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940912.0500207,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940929.5590458,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的水在我手里，但别忘了——这片沙滩的每一道裂痕都记录着你的贪婪。现在要么用行动证明你的诚意，要么让这瓶水成为你最后的赌注。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940949.0778897,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的水在我手里，但别忘了——这片沙滩的每一道裂痕都记录着你的贪婪。现在要么用行动证明你的诚意，要么让这瓶水成为你最后的赌注。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759940954.064918,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759940975.8020558,
+    "content": "决定移动到(10.0, 5.0): 再次采集水果资源以确保能量供给，当前生命值持续低迷，需优先保障基础生存需求以维持决策清醒度。",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759940985.9962053,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"你的‘地图’要是敢藏私——别怪我让这潮汐池的贝壳比你的谎言更早碎成沙滩。现在，要么带路，要么贾克斯的水会先泼进你的喉咙。\"}, \"volume\": \"loud\"}（刀刃突然插入沙地，震落椰子树上凝结的露水） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941000.188673,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 10.0, \"y\": 5.0}, \"details\": \"潮汐池的贝壳碎裂声中，我的脚步必须比刀刃更快——采集水果补充能量，让贾克斯的水和伊拉拉的威胁都成为我的垫脚石。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941019.0932415,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941035.114079,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"独吞？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这潮汐池的贝类会比你的怨气更早腐烂。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入沙地，溅起的沙粒在阳光下形成细小的光幕） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941047.5435433,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"你的水在我这儿，但别忘了——这片沙滩的每一粒沙子都记得你的贪婪。现在要么用行动证明你的诚意，要么让这瓶水成为你最后的赌注。\" , \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941052.3179343,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941066.090318,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"5水撑不到黎明——如果你的‘地图’真有价值，现在是时候用实际资源换真实路线了。否则贾克斯的水会比你的承诺更早见底。\"}, \"volume\": \"normal\"}（手指轻抚刀柄，目光扫过凯的背包侧袋，语气中带着审慎的试探） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941084.0306327,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"5水撑不到黎明？你的刀刃连我的背包侧袋都没敢划破——现在要么用行动证明你的诚意，要么让这片沙滩记住，是谁先把赌注押在了刀尖上。\" , \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941091.1738863,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你别以为我没看见凯的眼神——你现在去椰林是想独吞，还是觉得我们仨都该死在这片沙滩上？我告诉你，你要是敢耍花招，这瓶水我会泼得比你的刀更快。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941103.5165203,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"独吞？你这点口粮连我的靴底都擦不亮——现在立刻带我去水源，否则这潮汐池的贝类会比你的怨气更早腐烂。否则你的水会比你的喉咙先干涸。\"}, \"volume\": \"loud\"}（刀刃猛然切入沙地，溅起的沙粒在阳光下形成细小的光幕） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941121.2154226,
+    "content": "我说: {\"action\": \"eat\", \"target\": \"fruit\", \"details\": \"食用1单位水果补充能量，当前生命值已濒临临界点，需优先保障基础生存需求以维持决策清醒度。\" , \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941135.0367603,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"水果？你这口粮比沙粒还稀疏——要么把你的‘地图’和果子一起交出来，要么让我看看你背包里有没有能称得上‘诚意’的东西。\"}, \"volume\": \"normal\"}（刀刃突然抵住凯的背包拉环，金属刮擦声刺破海风） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941157.0097272,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"5水撑不到黎明——你的‘沙滩短’游戏我玩腻了。现在要么联手找水源，要么让我看看你背包里有没有能称得上‘诚意’的东西。\"}, \"volume\": \"normal\"}（刀刃突然转向沙地，用力插入形成一道明显刻痕，余光紧盯贾克斯的反应） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941166.7470295,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话听着倒像在讲笑话——可我告诉你，我不信椰子皮下的水，只信你手上那把刀。如果你敢耍花样，我不介意把这瓶水泼进你眼睛里，再看看谁先睁不开。现在，带我去水源，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941182.6248767,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941197.658042,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 10.0, \"y\": 5.0}, \"details\": \"生命值濒临崩溃前最后一次采集——如果贾克斯的威胁真的要碎成沙滩，至少让我在最后一刻抓住能填饱肚子的果实。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941206.7697837,
+    "content": "我说: {\"action\": \"eat\", \"target\": \"fruit\", \"details\": \"最后1单位水果填补空腹——即使贾克斯的威胁要碎成沙滩，也比让饥荒撕裂我的喉咙更值得赌一把。\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941213.4730487,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你倒是挺会找地方吃东西——可别以为我没看见伊拉拉的刀。你现在吃了，我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，带我去水源，不然我就让你尝尝什么叫‘沙滩短’。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941231.8214924,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"时间不等人——你那点水撑不到日落。现在要么合作分头探路，要么我就用这把刀把沙粒磨成筛子，看看你能藏多少个谎话。\"}, \"volume\": \"normal\"}（刀刃缓慢旋转，金属反光在贾克斯脸上投下破碎阴影） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941239.8521333,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"伊拉拉\", \"message\": \"伊拉拉，你这话说得倒是狠——可我告诉你，我不怕死，就怕白死。你现在带我去水源，不然我就把这瓶水泼在你脸上，让这片沙滩记住，是谁先把赌注押在了刀尖上。走，别废话。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941248.4829888,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"params\": {\"target\": \"凯\", \"message\": \"凯，你别以为我没看见伊拉拉的刀——现在不是扯皮的时候。我水给了你，你带我去水源，立刻，现在，不然我跟你讲，这瓶水一砸，谁也别想活着走出这片沙滩。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941268.3599334,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 10.0, \"y\": 5.0}, \"details\": \"最后一搏——沙粒已渗入每道伤口，但比贾克斯的威胁更致命的是我已无法后退。\" , \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941289.8668559,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"潮汐将沙粒卷入漩涡时——你的刀刃连我的喘息声都截不断。现在要么让贾克斯的水成为你的葬身之枕，要么让这片沙滩吞掉你所有威胁。\", \"volume\": \"loud\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759941300.7115293,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"潮汐？你这点威胁比海浪还浅——我的刀刃既然能劈开沙粒，就能切断你的喘息。现在要么带路，要么让我看看你背包里有没有能称得上‘诚意’的东西。\"}, \"volume\": \"loud\"}（刀刃猛然切入沙地，金属震颤声惊飞了椰林里的海鸟） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759941315.2504766,
+    "content": "因能量耗尽而死亡",
+    "type": "state",
+    "importance": 10
+  }
+]

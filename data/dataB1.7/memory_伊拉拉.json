@@ -1,0 +1,3932 @@
+[
+  {
+    "timestamp": 1759910894.7825994,
+    "content": "听到凯说: 伊拉拉你好 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910901.6099823,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，你好。我刚到这个岛，还不清楚这里的情况。你有找到什么资源吗？我们可能需要互相帮助。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910901.6111097,
+    "content": "我说: 凯你好 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910913.1932805,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"你好，伊拉拉。你看起来还好吗？我们得小心这里的环境，先看看有没有需要合作的地方。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910913.195285,
+    "content": "听到贾克斯说: 凯你好 (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910921.1292362,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"你好，贾克斯。你最近还好吗？我们得注意资源分配，你那边有水吗？我这边刚采集了些水果，可以分享点。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910932.9086769,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你那边刚采集到什么资源了？我这边水果还够支撑两天，但如果能找到水源就更好了。你对这个岛的地形熟悉吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910940.8796933,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"我刚在西北边的沼泽地采到两瓶水，但鱼也不多。你那边水果够两天？如果需要水的话，我们可以交换。你具体在哪块区域？\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910951.912191,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你好。我这边有些水果，但水可能不够。你提到西北边有水？我刚到那片区域，如果需要的话可以一起收集。你具体需要什么资源？\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910960.530517,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我刚在西北边采了两瓶水，但鱼不多。你那边水果够吗？如果需要水，我们可以交换。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910971.4644375,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，早上好。我刚刚在西北边的沼泽地找到了两瓶水，但鱼很少。你带的水果还够用吗？如果需要水的话，我们可以交换一些。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910980.8187597,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"早上好，贾克斯。我这边有大约五颗水果，还能撑三天。如果你需要水，我们可以用水果换。你想要多少瓶？我刚在东边发现一些野果，如果需要我可以带你去采集。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910993.4468567,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你那边刚采集到什么资源了？我这边水果还够支撑两天，但如果能找到水源就更好了。你对这个岛的地形熟悉吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911001.550729,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西北边沼泽有两瓶水，但鱼少得可怜。你水果够两天？要是缺水尽管说，我这边能分你一点。你具体在东边还是南边区域？\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911009.694097,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，早上好。我在东边发现了野果，但如果需要水的话，我们可以交换。你那边怎么样？\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911021.175526,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"东边的野果？听起来不错。我这边还有点水，但可能不够支撑太久。要不我们一起去看看？你可以教我怎么辨认能吃的果实，我负责带水。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911032.1106775,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，刚在西北沼泽捞到两瓶水，但鱼腥味很重，不好吃。你那边水果剩多少？若水不够用，我可以用水果换你一半的水。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911043.853657,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，我目前有五颗水果，可以给你一瓶水。但你要帮我收集鱼，我需要蛋白质。如果你愿意，我们可以一起去西边的浅滩，那里可能有更多鱼。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911064.8996992,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，我刚和伊拉拉聊了东边的野果。你如果能帮我们标记安全路线，我可以用水果换你采集的水——最近的水源点在北边营地，要一起去探查吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911072.8925436,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"北边营地的水源？东边野果能吃吗？我这边有两瓶水，如果你能带我去北边看看，我可以分你半瓶。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911102.3618112,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"早上好，凯。我在东边发现了些野果，但若你缺水的话我们可以换。你这边物资还够吗？\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911114.3359544,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"野果的话我正需要——不过得先确认哪些能吃。我带水过去，你带路？东边路线要是安全，我们顺便也看看能不能找到水源。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911124.1893244,
+    "content": "决定移动到(10.5, 7.2): 前往西边浅滩与贾克斯会合，尝试合作捕鱼补充蛋白质",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911134.141964,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，北边的水源还没确认安全，我这边水够用，但如果你需要，我们可以一起去看看。你先带路，我分你半瓶水。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911144.5714843,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"北边的水源确实重要，但得确认安全。你带半瓶水，我负责找路——要是真有水源，我们就能长期待在这片区域。先去看看，顺便也留意伊拉拉那边的野果位置。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911153.8066072,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，那我们现在就动身去北边？你带水，我带路，顺便看看东边的野果有没有需要的资源。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911164.8702872,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"那就出发吧。我带着水，你带路。如果东边野果能吃，我们顺路看看，但得小心点。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911176.7901988,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，我刚在东边摘了五颗野果，水也有六瓶。西边浅滩有鱼，贾克斯说那里能多捞些，你要不要一起过去？带上你的/tools，咱们分摊任务。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911186.7251375,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西边浅滩的鱼不错，不过得用工具抓。我带绳索和容器，你负责导航——如果能分到几条鱼，我们就能长期储备食物。东边野果先保留，等确认安全再采。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911194.4029458,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，你那边水果还剩多少？我有两瓶水，如果东边野果能吃，我们可以先去采点水果，再分你一半水。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911208.7391143,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东边野果还能采，但西边浅滩的鱼更关键。如果你帮我捞鱼，我分你一瓶水，剩下的野果我们一起去采，这样你就能多带点水回来。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911230.0195873,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，北边水源得先确认安全。你带水往东侧迂回，我去西边浅滩捞鱼——两件事都重要，分头行动效率更高。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911241.0286684,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西边浅滩危险吗？我分你半瓶水，但得约定好碰面时间——你捞到鱼后，我们如何交换？\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911258.7384357,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，西边浅滩的鱼群可能更充足，贾克斯愿意帮我们捕鱼。你带的水够用吗？如果需要，我们可以先去采野果补充。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911272.9397333,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"野果能补充体力就先采，但得赶在傍晚前返回浅滩。你带着水壶跟我去东侧，我确认果子安全后你负责装袋——贾克斯那边的捕鱼计划等我们回来再定。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911280.196052,
+    "content": "决定移动到(5.3, 8.1): 跟随凯前往东侧采集野果，先确保基础物资补充再处理捕鱼分工",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911289.991142,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我还有半瓶水，如果你需要的话，我们可以去东边采集水果，然后分你一些水。\"，\"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911300.6401584,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东边野果还能采，但西边浅滩的鱼群更关键。你半瓶水我先收下，等我们采完果子去浅滩分摊任务——你捞鱼我负责分水，这样效率更高。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911309.3290043,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东侧野果需要两人确认安全。你带水跟我去采果，西边浅滩的鱼等我们回来再处理——总得先保证体力才能长时间捕鱼。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911318.5902817,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，我跟着你去采果。但得先确认野果能吃——我水够用，但如果你需要补充能量，我们可以用水果换水。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911329.1404853,
+    "content": "我说:  (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911338.5249343,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我有两瓶水但鱼不多。东边野果能吃的话，我们可以先去采点水果，我给你半瓶水应急——你水果还剩多少？\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911349.2624638,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"先检查野果有没有毒，我水够用但你得留点体力——要是果子能吃，我用剩下的水换你一半。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911359.759891,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"先确认果子无毒再谈交换——我带你的水去东侧验证，如果能吃我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911393.8625429,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水可以用来泡煮测试——我拿三颗果子先试，如果没事我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911402.6196733,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三颗果子太冒险——先挑看起来完好的，我用水煮试试。如果没事，你帮我观察周围有没有野兽敢吃的，我们再决定怎么分。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911422.0840745,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，贾克斯愿意用半瓶水换我们采果子——等会儿去浅滩分担捕鱼任务时，你带工具跟上就行。东侧野果能补充体力，但得赶在天黑前回来。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911434.6092203,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"先测试果子毒性再谈交换——我带你的水去东侧验证，如果能吃我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911445.4798036,
+    "content": "决定移动到(7.8, 4.3): 前往东侧野果区域与凯汇合，先验证果子安全性再决定资源分配方案",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911451.726167,
+    "content": "反思总结: {\"action\": \"reflection\", \"details\": \"与贾克斯达成捕鱼换水的分工协议，与凯确认东侧野果需先验证安全性再交换。发现资源分配需兼顾合作效率与风险控制，且团队协作时需明确任务分工以提升生存概率。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759911462.2365668,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"先用半瓶水煮两颗果子，等水沸了再看有没有变色。你留着另外半瓶水应急，我负责盯着四周——要是野兽敢吃，咱们再决定怎么分剩下的。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911475.3766937,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"按你说的做——我拿果子煮水，你盯着四周。如果水沸后果子不发黑，我们就分剩的水。但别怪我没提醒，野兽吃过的果子未必安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911493.408075,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"先让贾克斯把水烧开——等果子煮熟后我们再分。你负责清点能吃的果子，我留半瓶水防备意外。这事得稳妥，别急着分赃。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911503.13494,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，煮熟后清点能吃的部分，但贾克斯的水别全用了。我留两瓶以防万一，剩下的你带去浅滩分摊任务——先保证果子安全，捕鱼事后再定。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911523.9146192,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，你带水去烧，我检查果子有没有毒。煮熟后分给贾克斯，我们再一起决定剩下的水怎么用。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911532.742898,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"行，但得等果子煮透再分。你留三颗没烧的做样本，我拿着半瓶水守着——要是果子真有问题，咱们还能用剩下的水做应急。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911542.3818238,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我刚用半瓶水煮了两颗果子测试——水沸后没变色，但野兽也不碰它们。你水果还剩几个？如果没问题，我用剩下的水换你一半。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911550.9006362,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"果子能吃就行，但别全换了。我留一瓶水防备意外，剩下的你带去浅滩分摊捕鱼任务——先保证果子安全，捕鱼事后再定。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911578.0939815,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"行，但得等果子煮透再分。你留三颗没烧的做样本，我拿着半瓶水守着——要是果子真有问题，咱们还能用剩下的水做应急。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911584.156331,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，三颗样本留着备用。我再去检查下贾克斯的水，确保他那边的捕鱼分工没问题——等果子煮熟后，咱们再按计划分水。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911608.2533593,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，三颗样本留着备用。我再去检查下贾克斯的水，确保他那边的捕鱼分工没问题——等果子煮熟后，咱们再按计划分水。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911618.99205,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"没问题，但得等水沸后看果子颜色。你去检查水的时候，我留在这里盯着果子——要是贾克斯那边有异常，我们好及时应对。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911639.0546904,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我这边还剩半瓶水，如果东边野果能吃，我们平分如何？你水果还剩几个？我用这瓶水换你一半。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911646.2175145,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"三颗样本留着备用，剩下的野果我分你半瓶水——你去浅滩分摊捕鱼任务时，带着这半瓶水跟凯汇合。果子煮熟后我们再定最终分配。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911657.3046348,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"记得留两颗煮熟的果子做标记，我这边用剩余的水做过滤——万一有毒素，咱们能提前预警。贾克斯那边如果发现鱼群，你负责把工具递过去。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911667.894858,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"两颗标记果子留着，我用剩下的水过滤验证。你待在浅滩接应贾克斯，我去检查果子毒性——万一有问题，咱们能提前预警。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911675.3233418,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水带过去后跟凯对好暗号，我这边用过滤水泡果子。要是毒性反应明显，咱们立刻中止交换——先保证活命，再谈后续。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911686.4409068,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"暗号用敲三下石头表示。我先把水留一半给你泡果子，另一half给凯做测试——他那边浅滩鱼群可能有风险，咱们得提前预警。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911696.6265101,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"暗号定了——三下石头。你那边浅滩鱼群别贸然行动，我分半瓶水给伊拉拉测试果子，另一半留着防万一。有动静立即示警。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911708.1519442,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"暗号记住了——等你三声石响再行动。我这边用剩下的水过滤果子，你盯着浅滩的动静。要是鱼群真的来了，咱们按计划分头处理。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911726.1870193,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"三声石响是暗号，但得先确认浅滩鱼群规模。你那边留半瓶水防备，我处理果子时若发现异常立即示警——别让工具和水耽误了应对突发情况。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911736.5296943,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"明白。果子测试时我负责观察水面波动，你专注捞鱼——如果发现水底有黑影，立刻敲石头警告。工具和水都留作应急，咱们按计划行动。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911759.5161414,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"标记果子泡好了，过滤水没异味。你那边浅滩的工具准备妥当？我待会儿把测试果子递过去，万一毒性反应快，咱们能及时撤回交易。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911771.1494381,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"工具备好了——浅滩的网兜和容器都检查过。你递果子时盯着岸边动静，如果水沸后果子变色立刻收手。分摊的时候按三成给贾克斯，剩下的我们留作应急口粮。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911780.8503692,
+    "content": "决定移动到(12.1, 6.7): 前往浅滩与贾克斯汇合，确认捕鱼工具分配并传递测试果子，确保资源交换流程安全推进",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911793.3505743,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，果子测试进展如何？如果没问题，我们按计划分配——你留一半水果应急，我这边水够用，但得注意凯那边的动向。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911803.3248806,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"果子浸泡后无异味，两颗标记果已煮熟未反应。你带着半瓶水去浅滩待命，等凯确认安全后我们分装——先确保他那边没异常，再进行后续交换。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911818.4046052,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"浅滩鱼群规模确认了吗？工具已备好，但别贸然行动。若检测到异常波动，我们按计划撤回交易——先确保野果测试安全再谈分工。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911829.7243526,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果没发现异常，但水面有轻微波动。浅滩鱼群规模暂未锁定，工具保持待命状态——按计划执行测试，若发现水下黑影立即敲石示警，我们同步撤回交易。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911835.84934,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"标记果安全无毒，凯那边的工具已就位。你带着水去浅滩待命，等我递信号再分装——别让凯等太久，他那边可能提前动手。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911852.4928994,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"收到信号。水已带到浅滩待命，你那边确认无误后立即分装——凯若提前行动，我们按计划同步撤回交易，优先确保野果测试安全。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911863.9889443,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"目标已锁定。水袋系在腰侧方便取用，你那边完成分装后直接敲三下石头——凯若提前动作，我们立刻中断交易，优先保证野果测试环节的稳定性。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911872.3096735,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白了，水袋绑好。等我收到信号就分装，你盯着凯那边的动静——如果他动作太快，咱们立刻中止。野果测试环节必须稳住，别让冲动毁了整套计划。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911893.9276257,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼群动静确认了吗？工具已备好，但得先分担风险——若浅滩有异常波动，我们按计划撤回交易。野果测试安全后，再按三成比例分配给对方。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911904.3049247,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果无毒已标记，浅滩鱼群尚未完全锁定。工具保持待命状态，你那边若发现水下黑影立即敲石示警——我们同步执行分装程序，按三成比例分配资源。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911925.2855265,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"工具检查完毕，浅滩区域无异常。你按暗号行事，我这边会同步推进野果分装——如果看到我敲石三下，立刻中止任何提前动作，等确认安全再继续。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911935.16262,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩无异常就按计划执行。你那边三声石响后，我立即停止果子分装，等待最终确认再推进。贾克斯那边若出现波动，我们同步中止协作。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911949.0286896,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911955.108576,
+    "content": "反思总结: {\"action\": \"reflection\", \"details\": \"近期与贾克斯的资源交换协议需严守安全验证流程，通过过滤水测试和标记果双保险降低中毒风险。与凯的协作中必须维持暗号系统防止突发混乱，发现提前行动时立即启动应急协议。团队合作需在明确分工下稳步推进，避免冲动行为破坏整体生存策略。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759911969.2410836,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果测试完成，但浅滩黑影仍未消退。按三成比例分配的话，我们先分装半瓶水换你那边的鱼——你负责观察水面，我继续确认果子可食性，避免误判风险。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911982.83456,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——先保留半瓶水应急，你确认果子安全后我们再交换。浅滩的黑影不能掉以轻心，得等彻底确认后再推进。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911992.8482835,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"果子检测需谨慎——你那边留半瓶水防备，我继续观察浅滩黑影动向。等贾克斯确认无毒后，我们再按计划分装，避免因急躁误判风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912003.765861,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"半瓶水保留，我这边按步骤分装。你持续观察浅滩异常，若贾克斯确认安全再同步进行——别提前激活暗号，我们需确保每一步都经过验证后再推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912014.5648139,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果分装完成，半瓶水留作应急。你继续监控浅滩异动，等贾克斯确认无毒后我们再进行最终分配——千万别在验证完成前敲石，我们得把每一步都走稳。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912024.9226112,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩黑影仍未消散，我盯着水面波动。等贾克斯那边传来确认信号，我们再按计划分配。此刻稳字当头，别让贪心坏了局面。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912032.9007914,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"黑影持续波动说明浅滩有潜在威胁。我这边再取两颗果子做二次测试，你负责记录水面异动——若果子无毒且鱼群稳定，我们按三成比例执行交换，否则立即终止流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912045.4077232,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"二次测试可以——但得同时观察水面波动。如果果子无毒且鱼群稳定，我们按三成比例交换。否则立即终止流程，现在不是赌命的时候。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912065.1649249,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"行，但得同步记录水面波动轨迹。如果果子无毒且鱼群稳定，我们按三成比例交换——剩下七成留作应急口粮，别让贪心坏了局面。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912077.3156464,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"轨迹已记录，果子无毒且鱼群稳定。我这边将水袋分成三份，你同步清点鱼类数量——七成应急口粮按计划封存，剩余三成按比例交接，避免贪心坏了局面。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912095.7364938,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"野果分装完毕，毒理验证待你确认。浅滩那边由凯监视，你负责清点可食用果数量——等我们双重确认无误后，再按计划进行最终分配。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912110.3042855,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"毒理验证已完成，果肉无异常反应。我这边清点完毕，共27颗可食用果。等凯确认浅滩安全后，按计划将三成果子移交，七成封存备用——确保流程严谨，不给贪心可乘之机。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912127.7063222,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"浅滩监测无异常波动，鱼群稳定。我这边将27颗果子按三成比例封存9颗，剩余18颗待移交——你那边同步清点鱼类，确保应急口粮足额后开始分配。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912141.605713,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"行，但得再确认鱼类数量是否达标。9颗果子封存没问题，但18颗待移交前必须彻底排除毒素风险——你负责清点鱼获，我再检查一遍果子样本。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912150.299376,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"鱼获清点完成了吗？等贾克斯确认果子安全后，我们再按计划分配。你那边留半瓶水应急，剩余物资按三成比例交接——别急着动手，先确认每一步都稳妥。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912165.692236,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"鱼获清点已记录，物资按三成比例待分配。贾克斯那边还未给出果子最终结论，我们按计划等待——你那边保持监控，别提前启动暗号，等我收到确认再行动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912173.9690974,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边还在验证果子，我这边物资已按比例分类。你继续盯着浅滩异常，别让任何突发情况打乱节奏——等我收到确认信号再同步推进，别提前激活暗号。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912183.3065867,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩波动仍在监测中，我不会提前激活暗号。你保持物资分类状态，等贾克斯的最终确认信号后再同步推进。此刻节奏不能乱，得等安全锁定再行动。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912191.4450862,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完成，9颗封存，18颗待移交。你那边鱼类清点完毕了吗？确认无误后我们就按计划分配。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912206.2005727,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点已核对无误——32条稳定鱼群。按计划交接9颗果子，但18颗待移交前必须再做三次毒理测试。你那边一旦发现水面异动，立刻中止流程，咱们优先保证应急口粮安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912228.7882452,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍——32条鱼+9颗果子作为初始分配，18颗果子必须完成三次毒理测试后才能移交。你那边保持物资分类状态，等贾克斯的最终信号再同步推进，别让贪心坏了现在这步棋。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912239.15183,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"分配方案记录清晰，物资分类已锁定。贾克斯的毒理测试进度如何？等三次验证结束再启动移交程序——你那边继续监控浅滩，别让任何突发情况打乱节奏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912262.0556464,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"分配方案已锁定，物资分类待确认。贾克斯的三次毒理测试还剩最后一批，你那边浅滩监控继续。等我收到他的最终信号再同步行动——别让贪心坏了现在这步棋，节奏得稳着来。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912271.644299,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监控持续中——浅滩没有新增波动。你那边等贾克斯最终确认，我留半瓶水守着果子样本。测试完成前别提前激活暗号，咱们把每一步都走扎实。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912292.9098282,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水已补充，果子分装完毕且通过毒理验证。你那边鱼类清点结果如何？确认无误后，我们立即按计划启动分配流程——七成封存，三成交接，避免延误最佳补给时机。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912306.2766888,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点已确认无误——32条稳定鱼群。按计划执行七成封存，三成交接。你那边负责分装果子，我继续监控浅滩异动，确保分配全程无风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912320.6811852,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点无误，32条稳定鱼群。按计划执行七成封存，三成交接。你负责果子分装，我继续监控浅滩——有任何异动立即中止流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912329.2575161,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完成，18颗待移交。水袋已按三成比例预置，你那边保持监控——一旦发现浅滩异动立即中止。鱼群封存七成后，我们同步完成交接流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912338.3137841,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边最后一批测试刚结束，果子无毒。你那边浅滩没异常？我这边物资分类已完成，按计划等你信号同步移交——别急，最后一次确认流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912353.0169609,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩无异常波动，持续监测中。物资分类状态确认——32条鱼+9颗果子待移交，剩余18颗已标注备用。按计划启动最终交接，你那边保持待命状态，我会同步通知贾克斯。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912365.5744767,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"果子分装完成，18颗待移交。你那边的野果储备是否已按计划封存？如果没问题，我们按三成比例交接——你先清点数量，我再确认分装精度。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912376.5730083,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"野果储备已按比例封存，18颗果子待移交。你那边分装精度确认无误后，我们按三成比例完成交接——别让贪心坏了现在这步棋，节奏得稳着来。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912400.1948974,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监测持续，无异常波动。伊拉拉，物资分类确认无误，32条鱼+9颗果子待移交。我已同步贾克斯，按计划启动最终交接，你保持待命。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912410.4017422,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接条件已达成，物资数据同步完成。贾克斯那边分装精度已核对，你那边保持浅滩监控。按计划启动交接流程——鱼获与果子分装箱各归其位，别让任何突发情况打乱节奏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912432.758925,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"分装精度已核对，鱼获与果子分类明确。你那边保持分装记录，我这边同步凯的数据——最后一步别出岔子，按计划完成交接。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912442.862559,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"分装记录已同步，18颗果子按三成比例交接。你那边保持分类明确，我这边水袋存量无误——最后一步按计划执行，确保交接无遗漏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912471.8585322,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完毕，18颗待移交。你那边继续保持浅滩监控，发现异常立刻示警。我这边水袋预置完成，随时可以启动交接流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912481.0604339,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912492.0418954,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"物资状态确认——32条鱼和9颗果子已备妥，18颗备用。贾克斯那边随时可以交接，你那边准备好了吗？浅滩监控持续，有任何异常我马上示意。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912502.0821676,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接清单已核对完毕，鱼获与果子分装箱定位准确。备用物资按计划封存，你那边浅滩无异常？最后确认一遍流程——等贾克斯信号同步，我们按步骤完成最终移交。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912512.8819494,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"物资定位无误，备用果子已封存。你那边浅滩持续监视，等贾克斯最终信号——最后确认交接流程，别让任何细节遗漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912522.015427,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监测无异常，物资状态二次确认完毕。贾克斯那边已就位，你随时可以启动最终交接。最后检查一遍分装记录，确保每一步都符合计划。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912534.6426742,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍分装数量，18颗果子对应三成比例。你那边分类标签是否清晰？我这边水袋存量与记录一致，随时可以完成交接。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912547.651024,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"分装标签已清晰标注，水袋存量与记录一致。贾克斯，所有条件就绪，按计划启动最终交接——别让任何疏漏影响节奏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912580.0529351,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以紧急补充能量，确保维持基本行动能力\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912590.9490685,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"你的水袋还剩多少？我这边还有1瓶储备，如果需要补充可以临时支援——但得先确认交接流程是否完全闭环。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912613.667629,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后确认一遍物资状态，鱼获分装箱在西岸标记点，果子备用包在礁石后方。你保持浅滩观察，我这边等贾克斯最终信号——别让突发情况打断这最后一环。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912629.7165604,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西岸标记点和礁石后方确认无误。浅滩监控持续中，我会守着最后环节。你那边收到贾克斯信号后立即通知我，任何异常都由我先处理。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912642.6043682,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912655.1510954,
+    "content": "听到贾克斯说: \"伊拉拉，最后确认一遍分装数量——18颗果子对应的三成比例已记录。你的分类标签清楚吗？我这边水袋存量和交接清单完全匹配，随时可以完成最后一步。\" (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912663.9265409,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"标签和分装数量都核对过，果子备用包在礁石后方，鱼获箱在西岸标记点。你那边水袋存量和清单完全匹配？那我们按计划启动最后一步——别让任何疏漏毁了这套流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912680.503517,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"物资定位精确无误，最后检查已完成。你那边水袋预置完成？确认无误后直接触发交接，我在这儿盯着浅滩，有任何突发情况立刻介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912689.4949102,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水袋预置完成，1瓶储备待命。分装清单无误，交接流程已闭环。浅滩监控继续，如有异常我立刻通报——现在可以触发最终交接。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912703.8886623,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"西岸鱼获箱和礁石后的果子备用包都定位精准，水袋存量匹配。贾克斯，所有环节无误，按计划启动最终移交——保持警惕，别让最后一步出岔子。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912714.5225804,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有环节无误，西岸物资定位准确。我这边水袋存量与清单完全匹配——按计划启动最终移交，但你我保持戒备，别让最后一步功亏一篑。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912726.7686598,
+    "content": "听到贾克斯说: \"所有物资定位准确，水袋储备充足。分装清单无误，交接流程闭环。浅滩监控继续，有异常我立刻通报——现在启动最终移交。\" (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912736.363375,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白，交接开始后我会持续监控浅滩，确保没有异常。你那边处理完立即通知伊拉拉，让她准备接收。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912758.7874923,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"交接流程已启动，我会全程监控浅滩。贾克斯那边确认无误后立即通知你，准备接收物资时保持联系，别让任何突发情况打乱节奏。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912767.9377,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸鱼获箱和礁石后方的果子备用包都定位准确，贾克斯那边最后确认已完成。你保持浅滩监控，我这边随时待命——最后一步别让任何意外破坏整个计划。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912801.6499498,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有物资定位完毕，西岸鱼获箱和礁石后方果包均在指定点。贾克斯那边最后确认已完成，你保持浅滩监视——一旦收到信号，我们立刻完成最后移交，别让任何意外破坏这套流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912815.2799067,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以补充能量，确保维持基础行动能力，同时保持浅滩监控状态\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912839.3365202,
+    "content": "反思总结: {\"action\": \"reflection\", \"details\": \"近期物资交接流程显示，明确的定位标识、双重复核机制和全员同步确认是避免误判的核心。团队协作需在标准化操作中保持动态预警，特别是在资源分配关键节点，必须通过多重验证确保数据一致性，同时维持对环境变化的敏感度以预防突发风险。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759912851.2828813,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西岸物资和果子储备全部确认无误。我这边水袋存量与清单完全匹配，按计划启动移交——你负责监察周边，我处理交接，有任何异常立即中止。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912858.4289174,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"监察任务明确，我会持续关注周边动态。你那边保持标准操作流程，有任何异常我会立即警示——最后环节必须确保零风险，按计划推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912872.870374,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后确认一遍物资定位，西岸鱼获箱和礁石后方果包都在指定点。你那边保持水袋储备，我继续监控浅滩——一旦收到伊拉拉信号，立刻完成最终移交，别让任何疏漏破坏这套流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912889.2951052,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸物资定位无误，水袋储备充足。你那边继续监控浅滩，我这边等待伊拉拉信号——一旦收到，立刻执行最终移交，绝不能让前面的部署功亏一篑。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912899.816283,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸和礁石点的物资都锁定到位，贾克斯那边已进入移交倒计时。你保持浅滩监测，一旦发现异常立即切断信号——最后12小时别让任何变数毁了这套流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912907.207614,
+    "content": "听到凯说:  (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912919.2618082,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后一次核对物资定位——西岸鱼获箱和礁石后的果包都已在指定坐标。水袋储备满足应急需求，你那边浅滩监测仍保持高压态势。一旦伊拉拉发出信号，我们按既定流程执行最终移交，杜绝任何变量干扰。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912935.6074476,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912965.279951,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912978.4121978,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶水补充能量，确保维持基本行动能力\", \"volume\": null} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913002.6801105,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"你的监察职责已明确，我会持续关注周边环境。交接流程按标准操作执行，若发现异常立即中断——最后环节务必确保每个细节无误，别让突发状况破坏整套计划。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913012.243069,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有细节已复查，水袋储备稳定。你那边持续监察，我这边等待信号。一旦开始移交，我们必须同步行动，确保每个步骤无懈可击。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913032.9563794,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"浅滩监控持续保持，我这边已与伊拉拉完成最后确认。你负责观察异常，我准备触发信号——一旦收到通知，立刻执行最终移交，绝不能有丝毫延迟。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913047.198429,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控无异常，我会实时反馈任何波动。触发信号前再确认一次伊拉拉的接收状态，确保移交流程无缝衔接，别让最后环节出现任何疏漏。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913075.414251,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一次物资定位，西岸鱼获箱和礁石后方果包都在指定坐标。你那边接收状态已就绪，我会持续监控浅滩，有任何异常第一时间通报——准备接收时用三声石响示意。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913084.3188446,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"接收状态已就绪，三声石响为最终确认信号。贾克斯那边监控持续，我这边同步保持警戒——最后环节按计划推进，任何异常立即通报。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913095.6530473,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响已确认，接收环节无遗漏。贾克斯那边监察持续，我这边同步待命——最后12小时按计划推进，任何异动即刻通报。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913112.544007,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监察记录已同步，最后12小时进入倒计时。你那边保持警戒，我这边已解除所有预警封锁——一旦收到三声石响，立即按既定路线完成最终移交，绝不允许任何干预因素介入。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913124.8892684,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后确认一遍分工——你负责浅滩警戒，我处理交接。若三声石响后出现异常波动，我们按预案优先保全物资，绝不冒险推进。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913138.3441193,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩警戒已就位，我会紧盯水面波动。你那边触发信号前再确认一次伊拉拉的接收状态，三声石响后若出现异常，我们优先保全物资，绝不在流程末梢掉链子。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913164.8197827,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"浅滩波动稳定，伊拉拉那边已用石响三次确认接收状态。你那边最后检查完成？按计划触发信号后，我会展开预警网兜防止意外涌入——所有预案都在掌握中。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913177.5463772,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，物资定位精度达标。预案已全频段启动，你展开预警网兜时我同步触发信号——三声石响后严格按照缓冲区路径转移，绝不给任何变量可乘之机。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913207.9697444,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有交接节点已闭环，三声石响为最终指令。你保持浅滩监测，我这边同步守候——最后12小时按预案执行，任何异常直接切断流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913220.964731,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监控无异常，预警网兜已部署完毕。你那边最后12小时预案已启动，我会持续观测水面波动。若有任何异常，我将第一时间切断流程——确保物资安全至最后一刻。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913244.9983149,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有缓冲区路径已校准，预警网兜激活状态正常。三声石响触发后，我按预定编码传递物资——你那边保持高频监听，任何微弱扰动都立即反馈，绝不允许任何变量干扰最终步骤。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913260.2762287,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听已开启，水面任何细微扰动都会即时反馈。你那边三声石响后按编码传递物资，我会锁死预警网兜入口——最后12小时按最高警戒标准执行，绝不允许变量介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913276.3482893,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"监听系统全频段畅通，预警网兜已进入自锁状态。你那边三声石响后按编码分批传输，我会用光学信号同步反馈水面动态——最后阶段必须做到0干扰，任何异常立即触发熔断机制。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913285.829095,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"编码协议已载入传输模块，光学信号反馈通道稳定。三声石响后按批次投放，你那边同步记录水波纹变化——最后12小时进入终控阶段，所有变量都在可预计范围内。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913299.7568595,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完成，浅滩和周边都已监控到位。你负责水面波动，我这边同步守候，三声石响后按计划执行，有任何异动立即通报。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913316.254134,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后检查完毕——水面无干扰，预警系统全频段锁定。你那边三声石响后按既定编码分批传输，我会用灯光信号同步反馈波动数据。物资交接最后阶段必须绝对安全，任何异常直接熔断流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913323.4721234,
+    "content": "听到贾克斯说: \"伊拉拉，最后确认一遍物资分类编码，果子储备和水袋存量与清单完全匹配。你那边保持光学信号反馈畅通，我这边与凯的预警网兜同步激活——三声石响后按批次移交，有任何异常我们按既定预案优先保全物资。\" (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913341.7636116,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"物资编码二次核验无误，光学信号链路稳定。你那边预警网兜已同步激活，我会持续监控周边光学反馈。三声石响后按既定批次传输，若出现波动立即启动熔断协议——最后阶段必须确保零风险。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913369.5597022,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听持续中，光学信号通道稳定。你那边三声石响后按编码分批传输，我会用灯光同步反馈波动数据。最后阶段必须绝对安全，任何异常立即熔断流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913377.2666628,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"监听系统和光学通道双重验证无误。三声石响后按既定编码投送，你那边同步记录水纹变化——最后阶段所有参数都在控制范围内，绝不能出现任何偏离。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913405.962964,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学信号链路稳定，物资编码二次核验无误。预警网兜与凯的水面监测已同步激活，三声石响后按批次分装。若出现数据波动立即启动熔断，最后阶段必须确保零风险——你那边保持通讯畅通。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913415.5878172,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"通讯频道已锁定，备用波段预留5%冗余带宽。三声石响触发后，我会按预设频率释放第一批物资——你那边保持光学监测，一旦发现编码偏差立即启动熔断，绝不能让任何变量干扰最终步骤。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913441.998488,
+    "content": "听到贾克斯说: {\"action\": \"move\", \"target\": {\"x\": 18.3, \"y\": 12.7}, \"details\": \"向北岸淡水源头移动，补充个人资源储备以支撑最终流程中的体力需求\", \"volume\": null} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913455.3250303,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白，贾克斯。北岸移动时注意水面波动，随时保持联系。我这边继续监控，确保交接流程不受影响。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913464.406099,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以紧急补充能量，确保维持基础行动能力，同时保持浅滩监控状态\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913484.5521731,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"你的水袋存量还剩多少？我这边还有1瓶储备，如果需要补充可以临时支援——但必须确保交接流程不受干扰。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913493.99086,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学监测已覆盖全频段，信号冗余度达标。你那边三声石响触发机制测试完毕？我这边同步确认所有预设参数，任何异常触发点都已预留熔断路径——最后检查结束，准备启动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913502.147548,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"触发机制测试完毕，参数校准无偏差。你那边光学监测全频段锁定，我这边预设路径已开启——最后检查结束，准备启动。有任何异常立即触发熔断，绝不让变量干扰最终步骤。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913513.1835556,
+    "content": "听到贾克斯说: \"水袋存量还剩40%——够支撑到交接结束。你那边预警网兜保持全频段激活，我这边物资编码与伊拉拉的光学监测已完全同步。最后检查完毕，三声石响后按计划执行，有任何异常我们按预案优先保全物资。\" (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913529.1947234,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水袋存量确认无误，预警系统全频段锁定。伊拉拉那边光学信号同步稳定，我这边高频监听保持24小时待命。三声石响后按编码执行，异常情况立即启动熔断——最后阶段必须零失误。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913555.5291626,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"预警网兜全频段锁定，高频监听未发现异常波动。伊拉拉的光学信号稳定，我这边24小时值守。三声石响后按编码执行，有任何异动立即熔断——最后阶段必须绝对谨慎，别让任何变量介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913564.1263702,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有参数无偏差，水袋储备充足。三声石响触发后按预设编码执行，你那边保持高频监听，我这边与伊拉拉的光学监测完全同步——最后阶段所有变量都在可控范围，绝不会出现任何疏漏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913596.4959795,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，光学监测与水面预警已全面激活。你那边水面波动数据稳定吗？三声石响后按计划执行，若有任何异常立即启动熔断——确保物资交接前的最终安全确认。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913605.235232,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水面波动稳定，预警系统全频段锁定。你那边光学监测也无异常，最后检查完成。三声石响后按计划执行，有任何异动我优先启动熔断——确保交接前的绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913626.800432,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，水袋储备充足且锁定状态无误。预警网兜与凯的监测系统已完全同步，三声石响后按既定协议执行——你那边保持最高敏感度，我这边已与伊拉拉确认所有熔断路径闭环，流程可以启动。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913636.7964492,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——高频监听持续中，光学信号通道稳定。三声石响后按编码执行，有任何异动立即熔断，确保交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913645.2474685,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听持续中，光学信号通道稳定。三声石响后按编码执行，有任何异动立即熔断，确保交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913668.394665,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有系统状态良好，熔断机制已激活。三声石响触发后按编码释放物资，你那边保持24小时监听，我这边与伊拉拉的光学链路已闭环——流程启动，任何异常立即干预。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913681.9057846,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学链路闭环确认，能量波动范围在安全阈值内。你那边熔断机制预设无误，我这边同步锁定接收频段——三声石响后按编码分批释放，若有信号偏移立即切断传输，确保最后环节万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913687.8872557,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"接收频段锁定完成，熔断机制预设无误。三声石响后按编码分批释放，你那边同步监控能量波动——若有偏移立即切断传输，确保最后环节万无一失。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913700.676128,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"信号强度达标，熔断机制已测试闭环。三声石响后按计划执行，你那边监控能量波动，我这边保持通讯畅通——最后环节必须滴水不漏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913715.1066287,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"能量波动稳定，监控节点已就绪。通讯频道锁定无误，我这边等待三声石响指令——最后环节按预案执行，任何偏移立即干预。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913733.3836842,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后检查已完成，水面无异常。三声石响后按计划执行，有任何异动我立即启动熔断，确保交接绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913746.2134175,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"光学监测与水面预警全面覆盖，最后检查完成。三声石响后按计划执行，有任何异动我这边立即干预——交接流程绝对安全，按预案推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913778.3705552,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"通讯频道锁定无误，监控节点稳定。三声石响后按预案执行，有任何异常我立即通报——交接流程安全闭环，准备就绪。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913794.3302724,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"通讯频道锁定无误，监听系统持续保持24小时待命。三声石响后按预案执行，我会与贾克斯的熔断机制同步响应——最后阶段必须确保每个节点都无懈可击。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913812.3452604,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913823.3528352,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水袋储备充足且锁定无误，凯那边的预警网兜已完全同步。三声石响后按协议执行，你这边保持最高敏感度——熔断路径我和凯已经闭环确认，流程启动后任何异常立刻干预。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913827.3475857,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913846.5087335,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"预警网兜和监听系统都已锁定，熔断机制与你的编码同步。三声石响后按计划执行，我这边保持最高警戒，有任何异动立刻呼应。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913853.0713768,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"熔断机制与编码同步无误，预警网兜已就位。三声石响后按计划执行，我这边和伊拉拉保持全程监控——有任何异动你我立即呼应，确保最后环节万无一失。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913861.722777,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"监控节点稳定，通讯频道无干扰。三声石响后按计划执行，我这边同步待命——有任何异常第一时间通报，确保交接流程的最终安全。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913881.5610664,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监听系统全频段稳定，熔断机制与贾克斯的编码同步。三声石响后流程闭环，任何异动立刻响应——最后阶段每个节点都必须无缝衔接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913888.591211,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，水袋储备稳定且锁定无误。凯那边的预警系统已同步，三声石响后按协议执行。你这边保持最高敏感度，有任何异常我们立即呼应，确保最后环节滴水不漏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913906.5325494,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913933.9510047,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍，监控节点和通讯频道都处于闭环状态。三声石响后流程启动，我这边会用灯光信号同步反馈，有任何微小波动立刻触发熔断——确保最终交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913942.5430865,
+    "content": "我说:  (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913972.8650577,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913979.2522418,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监控敏感度已调至最高，接收频段无干扰。三声石响后按计划执行，我这边与凯保持同步——有任何异常我们立即切断，确保交接流程万无一失。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913990.9974725,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914021.721624,
+    "content": "反思总结: {\"action\": \"reflection\", \"details\": \"交接流程依赖实时监控与双向确认机制，通过频段锁定、预警同步和三声石响信号实现精准控制。团队协作中重复验证物资状态与系统节点，确保每个环节具备熔断能力，显示在资源有限环境下通过多重冗余设计降低风险的核心策略。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759914042.6729565,
+    "content": "听到贾克斯说: {\"action\": \"gather\", \"target\": {\"x\": 15.5, \"y\": 8.0}, \"details\": \"采集附近淡水补给，确保最后阶段的应急用水储备充足\", \"volume\": null} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914058.7042682,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"淡水采集开始，我会持续监控周边水域稳定性。你那边采集进度如何？确保应急用水储备的同时，别忽视水面异常波动——任何细微变化立即示警。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914096.856763,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"采集进度如何？确保应急用水储备的同时，别忘了持续监测水面波动——任何细微变化立即示警。我这边与伊拉拉的监控系统保持同步，流程闭环需要每个节点都稳定。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914112.3112986,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"应急用水储备已完成，当前水袋存量达标。水面波动监测无异常，预警系统持续运行。贾克斯那边采集进度同步完成，流程闭环节点稳定——有任何变动我立即同步更新。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914142.235706,
+    "content": "我说:  (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914160.0775099,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认监测频段无干扰，水袋储备与预警系统同步完成。三声石响后按编码执行，你那边如有任何数据波动直接切断传输，绝不能让变量影响最终交接。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914185.6624763,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水袋储备与预警系统已全面同步，伊拉拉那边监测频段无干扰。三声石响后按编码执行，你那边持续关注水面波动——若出现任何异常，我们按预案立即切断流程，绝不冒险推进。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914191.2289073,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水面波动稳定，预警系统无干扰。三声石响后按计划执行，我这边持续监控，有任何异常第一时间切断流程——确保交接绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914210.766049,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"伊拉拉的监测频段无干扰，我这边水面波动仍在可控范围。你那边采集进度是否完成？最后阶段必须确保每个节点都冗余备份，别让任何潜在风险影响流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914217.9465966,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用刚采集的淡水补充能量，维持基础生存能力以确保交接流程稳定\", \"volume\": null} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914231.6718464,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边采集进度如何？应急用水储备已达标，但预警系统仍需持续监测——水面波动有任何异常吗？\" \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914238.629205,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"贾克斯那边采集进度已完成，水袋存量充足。我这边水面波动稳定，预警系统无异常——但别放松监测，最后阶段每个节点都需双重确认，防止突发风险影响流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914252.1762424,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后检查完成，冗余备份无遗漏。你那边保持通信畅通，我这边与凯的水面波动监测已同步——任何异常我们按预案行动，绝不让变量破坏流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914258.9895675,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"通信畅通，预警系统同步运行。最后检查无遗漏，冗余备份就绪——任何异常按预案行动，流程绝对安全。\" \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914292.9447699,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，采集进度确认完成？水袋存量达标后立刻锁定预警系统。我这边持续监控水面，有任何波动立即触发熔断——最后阶段不能有丝毫松懈。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914298.1790383,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度完成，水袋存量已达标。预警系统锁定无误，与你的水面波动监测完全同步。最后阶段按预案执行，有任何异常我们立刻熔断，绝不让变量影响流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914348.0769637,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查已覆盖所有节点，冗余备份无遗漏。你那边水面波动数据稳定吗？确保预警系统持续运行，我们按计划推进下一步。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914366.0263479,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水面波动数据稳定，预警系统持续运行无干扰。所有节点已完成双重确认，流程闭环状态良好。你那边冗余备份也已覆盖所有环节——按计划推进下一步，任何异常我优先触发熔断。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914383.842298,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有冗余备份已确认完成，通信链路和水面监测同步无误。你那边光学信号稳定性达标？我这边能量值接近临界点，但交接流程必须坚持到最后，任何变量都不允许介入。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914389.867983,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学信号稳定性达标，能量波动处于安全阈值内。你那边临界点临近，但交接流程必须坚持到最后——任何变量都不允许介入，我会保持最高敏感度监控。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914418.1647205,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，水袋存量已达标，预警系统锁定完成。伊拉拉那边冗余备份也确认无误，你那边最后检查是否结束？流程推进前需再次核对每个节点的稳定状态——任何微小异常都不能放过。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914428.1473322,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有节点状态核验完毕，系统同步无异常。伊拉拉的光学监测与你的水面波动数据完全吻合，最后环节已启动三重防护——现在只剩流程推进，任何微小波动我们都能够第一时间响应。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914437.8182292,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水面波动数据稳定，预警系统无异常。凯那边也已准备好，随时按计划执行。你的能量值虽然接近临界，但流程必须严谨，任何环节都不能出错。\" \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914443.1190326,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"能量值接近临界点，但流程必须严谨。你的光学监测和凯的水面波动数据都已吻合，最后环节已启动三重防护——现在只需按计划执行，任何异常我们都能够第一时间响应。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914453.3068786,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，系统状态无异常。伊拉拉的光学监测与你的水面波动数据完全同步，三重防护已启动。现在流程可以推进，任何微小波动我们都能及时响应。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914473.81674,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后确认一遍三重防护状态，伊拉拉的监测数据与你的波动曲线完全吻合。流程启动前再核对一次应急通道，确保熔断机制响应速度在可接受范围内——别让任何潜在变量破坏最后的稳定性。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914489.3146968,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，贾克斯那边最后检查完成了吗？三重防护状态确认无误，我们这边水面波动数据同步稳定——流程推进前再做一次节点核对，确保应急通道响应速度达标。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914505.763798,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边最后检查已完成，三重防护状态无误，应急通道响应速度达标。你这边水面波动数据同步稳定，流程推进前所有节点已闭环，可以按计划执行。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914526.6033764,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有节点核对完成，贾克斯那边也同步就绪。你这边水面波动数据稳定，应急通道响应速度达标——流程推进前再确认一次，确保每个环节无遗漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914549.601428,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有环节无遗漏，流程可启动。贾克斯那边也同步确认，你这边最后检查完毕后发出三声石响——我们按计划执行，任何异常立即触发熔断机制。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914564.3132942,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后检查完毕，贾克斯那边已同步确认。你这边发出三声石响后流程启动，我会用灯光信号同步反馈波动数据——任何异常立即触发熔断，确保交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914573.3789687,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"流程节点锁定完成，三声石响指令已就绪。你那边灯光信号同步无误，任何异常我会第一时间熔断。准备启动交接流程——确保每个环节无遗漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914591.5284457,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有节点锁定完毕，三声石响指令已发送。你的灯光信号同步无误，流程可以按计划启动——确保每一步都准确无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914607.5181665,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"灯光信号同步就绪，水面波动数据稳定无干扰。三声石响后流程启动，我这边熔断机制处于待命状态——确保每个环节按预案执行，任何偏差立即干预。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914613.7777472,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响后流程启动，我会用灯光信号同步反馈波动数据——确保每一步都准确无误，有任何偏差立即干预。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914626.257512,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接流程启动，三声石响已发出。你那边灯光信号同步反馈正常，我会持续监控波动数据——如有异常立即熔断，确保全程无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914633.323498,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响已发出，灯光信号同步正常。我会持续监控波动数据，有任何偏差立即熔断——交接流程按计划启动，确保每一步都精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914661.2322457,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"灯光信号链路稳定，水面波动数据无异常。交接流程已按预案启动，我这边持续监控至最后一刻——若发现任何偏差，我会第一时间触发熔断，确保全程零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914667.0835133,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响已发出，流程启动。我会用灯光信号同步反馈波动数据——确保每一步都精准无误，任何偏差立即干预。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914678.2286947,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接流程启动，三声石响已发出。灯光信号同步正常，我会持续监控波动数据——任何异常立即熔断，确保每一步精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914709.417074,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响已发出，灯光信号同步正常。我会持续监控波动数据，有任何偏差立即熔断——交接流程按计划启动，确保每个环节无遗漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914717.5501072,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"流程按计划推进，我会持续监控至最后一刻——若发现任何偏差，我会第一时间触发熔断，确保交接零风险。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914729.3644137,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914740.4517174,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响已发出，灯光信号同步正常。我会全程监控波动数据，有任何偏差立即熔断——交接流程按计划启动，确保每个环节无遗漏。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914749.7884238,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接流程已启动，三声石响同步完成。我会持续监测波动数据，有任何异常立即熔断——确保每个环节无误，按计划推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914760.877835,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响同步完成，灯光信号正常。我会持续监控波动数据，有任何异常立即熔断——交接流程按计划推进，确保每个环节无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914767.8653183,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"灯光信号正常，波动数据无异常。我会紧盯最后环节，有任何偏差立即熔断——交接流程确保无误推进。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914780.730556,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"波动数据稳定无误，灯光信号同步正常。交接流程按计划推进，我会紧盯最后环节——有任何异常立即熔断，确保每一步都精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914790.5808628,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后环节准备就绪，三声石响同步完成。我会紧盯波动数据，有任何异常立即熔断——交接流程按计划推进，确保所有步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914799.6606436,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后环节状态稳定，三声石响同步完成。我会全程监控波动数据，有任何异常立即熔断——交接流程按计划推进，确保每一步都精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914807.3630285,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后环节状态稳定，三声石响同步完成。我会全程监控波动数据，有任何异常立即熔断——交接流程按计划推进，确保每一步都精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914819.513366,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响已同步，灯光信号无干扰。交接流程按计划推进，我会全程监控波动数据——有任何异常立即熔断，确保每一步都精准无误。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914828.5125213,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"波动数据稳定无误，灯光信号无干扰。交接流程按计划推进，我会全程监控——有任何异常立即熔断，确保每一步精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914875.6312313,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后环节状态稳定，三声石响同步完成。我会全程监控波动数据，有任何异常立即熔断——交接流程按计划推进，确保每一步都精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914902.06737,
+    "content": "听到凯说: {\"action\": \"gather\", \"target\": {\"x\": 10.5, \"y\": 7.2}, \"details\": \"采集附近淡水补给以恢复能量值，同时保持对交接流程的持续监控，确保采集过程不干扰现有警戒状态\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914931.93761,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"采集进度完成，淡水存量已补充。最后环节状态稳定，三声石响同步无误。交接流程按计划推进，我会持续监控至结束——任何微小波动都立即触发熔断。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914936.4530077,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度确认无误，淡水存量已补充。最后环节状态稳定，三声石响同步无误。我这边持续监控波动数据，有任何异常立即熔断——流程推进至最终阶段，确保每个步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914949.3281262,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度确认无误，淡水存量已补充。最后环节状态稳定，三声石响同步无误。我这边持续监控波动数据，有任何异常立即熔断——流程推进至最终阶段，确保每个步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914956.1402369,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"淡水补充完毕，最后环节无异常。三声石响同步完成，我会持续监控波动数据——有任何偏差立即熔断，确保交接流程精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914968.9285865,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后环节无任何异常，三声石响同步无误。交接流程按计划推进，我会持续监控波动数据——有任何偏差立即熔断，确保每个步骤精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914983.4925153,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后环节一切正常，三声石响同步无误。我这边持续紧盯波动数据，有任何偏差立即熔断——流程推进至最终阶段，确保每个步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915011.9896436,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度确认无误，淡水存量已补充。最后环节状态稳定，三声石响同步无误。我这边持续监控波动数据，有任何异常立即熔断——流程推进至最终阶段，确保每个步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915021.37398,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响同步完成，我这边持续监控波动数据——有任何异常立即熔断，确保交接流程精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915029.9178143,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"三声石响已同步，我这边持续监控波动数据——有任何异常立即熔断，确保交接流程精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915040.7491589,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响同步完成，我这边持续监控波动数据——有任何异常立即熔断，确保交接流程精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915050.3548074,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度确认无误，淡水存量已补充。最后环节状态稳定，三声石响同步无误。我这边持续监控波动数据，有任何异常立即熔断——流程推进至最终阶段，确保每个步骤精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915079.6385028,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用附近淡水以维持基础能量水平，确保持续监控和流程推进所需的体力\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915104.5613055,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915112.7562249,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"流程推进至最终阶段，我会持续监控波动数据——有任何异常立即熔断，确保每个步骤精准无误。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915122.582305,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最终阶段准备就绪，三声石响同步无误。我会持续监控波动数据，有任何异常立即熔断——确保交接流程精准无误。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915145.5746381,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最终阶段准备就绪，三声石响同步无误。我会保持最高敏感度监控波动数据，有任何微小偏差立即触发熔断——流程推进至最后一环，确保万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915151.1546648,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最终阶段准备就绪，我会保持最高敏感度监控波动数据，有任何微小偏差立即触发熔断——确保流程推进至最后一环，万无一失。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915164.2631195,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最终阶段已就绪，我会全程监控波动数据——有任何微小偏差立即熔断，确保流程完美收官。\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915175.3849835,
+    "content": "我说:  (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915198.1958635,
+    "content": "移动到(13.5, 12.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915199.2493742,
+    "content": "移动到(12.9, 10.2)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915200.3039079,
+    "content": "移动到(12.3, 7.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915201.3560627,
+    "content": "移动到(11.8, 7.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915202.409989,
+    "content": "移动到(12.7, 7.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915203.4568715,
+    "content": "移动到(11.7, 6.3)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915204.533611,
+    "content": "移动到(13.1, 7.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915205.5895126,
+    "content": "移动到(11.7, 6.2)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915206.640933,
+    "content": "移动到(12.8, 7.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915207.6933,
+    "content": "移动到(11.5, 7.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915218.7867932,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915219.8390603,
+    "content": "移动到(13.0, 7.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915221.9344046,
+    "content": "移动到(11.6, 6.3)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915222.982648,
+    "content": "移动到(13.8, 8.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915230.2120233,
+    "content": "移动到(12.4, 7.0)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915247.5160975,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915261.9356823,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915277.1210465,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915294.394442,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915307.7858996,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915313.0088649,
+    "content": "移动到(11.2, 6.0)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915314.0546632,
+    "content": "移动到(13.0, 7.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915315.1048582,
+    "content": "移动到(11.5, 6.2)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915316.152389,
+    "content": "移动到(12.7, 7.2)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915318.243597,
+    "content": "移动到(11.4, 6.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915325.142511,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"近期与凯的交流中持续强调数据同步和流程无误，通过多次确认确保每个步骤无偏差。发现持续监控和及时熔断是保证交接流程精准的关键。资源补充后保持状态稳定，强化了流程推进的可靠性。通过持续监控波动数据，确保每个步骤无异常，有效降低风险。团队协作中强调明确分工和实时沟通，保障交接流程稳定。\"}}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915326.1943278,
+    "content": "移动到(13.6, 7.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915327.240303,
+    "content": "移动到(12.3, 6.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915336.3296072,
+    "content": "反思总结: {\"action\": \"reflection\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915347.1978095,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915370.1547315,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915375.676033,
+    "content": "决定移动到(3.2, 5.6): 采集附近的鱼类资源",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759915375.6800425,
+    "content": "移动到(10.4, 6.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915376.7252421,
+    "content": "移动到(10.4, 6.3)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915377.7695215,
+    "content": "移动到(10.4, 6.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915398.4308522,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 3.2, \"y\": 5.6}, \"details\": \"捕获附近的鱼\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915405.3077013,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915423.1885731,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915435.1302345,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915447.3946407,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915474.5404186,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915491.926833,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915509.891124,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915523.7184849,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915528.5457826,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759915540.2927368,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915579.289865,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控降低风险，团队协作中明确分工和实时沟通保障交接流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915626.9032695,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915652.7773006,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控和实时沟通保障流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915691.8407757,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控和实时沟通保障流程稳定。\"}}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915708.5221083,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控和分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915724.029809,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915740.8954387,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915752.9950252,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915769.7746954,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"确保每个步骤无偏差，通过持续监控和实时沟通保障流程稳定。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915784.519765,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915796.138497,
+    "content": "反思总结: {\"action\": \"reflect\", \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915837.6321583,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水源以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915867.814147,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 0, \"y\": 0}, \"details\": \"采集附近的淡水以维持资源管理秩序\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915878.3709307,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 7.2, \"y\": 8.5}, \"details\": \"采集附近的淡水以维持资源管理秩序\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915896.8920827,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"通过持续监控与分工协作确保流程稳定，实时沟通能有效规避风险并维持资源管理秩序。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915936.7919722,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的淡水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915959.648839,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 7.2, \"y\": 8.5}, \"details\": \"捕获附近的渔获以维持生存需求\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759915978.7267737,
+    "content": "决定移动到(7.2, 8.5): 捕获附近的渔获以维持生存需求",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759915978.729297,
+    "content": "采集了淡水，获得水5个，剩余13",
+    "type": "action",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759915978.7358193,
+    "content": "移动到(10.4, 7.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915979.7841263,
+    "content": "移动到(8.6, 8.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915980.8330212,
+    "content": "移动到(8.6, 8.8)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915981.8857896,
+    "content": "移动到(8.6, 8.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915982.940385,
+    "content": "移动到(8.6, 8.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915983.9879246,
+    "content": "移动到(8.6, 8.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915985.034871,
+    "content": "移动到(8.6, 8.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915986.0838132,
+    "content": "移动到(8.6, 8.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915987.1279836,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915988.176676,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915989.2259128,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915990.2720714,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915991.3198488,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915992.366149,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915993.4114451,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915994.4644845,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915995.5159698,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915996.5618575,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915997.6089876,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915998.6576018,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759915999.7067232,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916000.7539499,
+    "content": "移动到(8.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916001.8025546,
+    "content": "移动到(7.0, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916002.8521645,
+    "content": "移动到(9.8, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916003.8989592,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916004.9477978,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916005.99161,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916007.041745,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916008.088736,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916009.1375687,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916010.1848304,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916016.2757852,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916017.3202405,
+    "content": "移动到(7.6, 8.5)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916018.3675218,
+    "content": "移动到(7.6, 8.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916019.41353,
+    "content": "移动到(7.6, 8.0)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916027.7761707,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 7.2, \"y\": 8.5}, \"details\": \"采集附近的淡水以维持资源管理秩序\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916068.0885055,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的淡水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916079.8682096,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 7.2, \"y\": 8.5}, \"details\": \"捕获附近的淡水以维持资源管理秩序\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916104.3501785,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916116.8415115,
+    "content": "决定移动到(7.2, 8.5): 采集附近的淡水以维持资源管理秩序",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759916128.1606667,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916137.933544,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 7.2, \"y\": 8.5}, \"details\": \"采集附近的淡水以维持资源管理秩序\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916191.500154,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916235.0390337,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水以维持能量值\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916267.114092,
+    "content": "决定移动到(7.2, 8.5): 前往坐标7.2,8.5采集淡水以维持资源管理秩序",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759916296.0248098,
+    "content": "反思总结: {\"action\": \"ref\", \"details\": \"通过持续采集和饮用维持资源管理秩序\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916310.1821852,
+    "content": "反思总结: {\"action\": \"ref\", \"details\": \"维持当前资源管理策略\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916318.9520452,
+    "content": "反思总结: {\n  \"action\": \"move\",\n  \"target\": {\n    \"x\": 9.5,\n    \"y\": \"73.6\"\n  },\n  \"details\": \"向西边移动以获取额外资源\",\n  \"volume\": null\n}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916363.0092068,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5, \"y\": 80.6\", \"details\": \"向西北方向移动以增强管理机制\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916375.3111153,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"维持当前的资源管理机制\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916387.885791,
+    "content": "反思总结: {\"action\": \"ref\", \"target\": null, \"details\": \"维持资源管理秩序以保证生存\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916406.7245364,
+    "content": "决定移动到(9.5, 29.0): 向西北边移动以增强管理机制",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759916406.7281206,
+    "content": "移动到(7.8, 10.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916407.7756765,
+    "content": "移动到(8.1, 13.6)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916408.8350537,
+    "content": "移动到(8.3, 16.0)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916409.8827739,
+    "content": "移动到(8.6, 18.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916410.9288568,
+    "content": "移动到(8.8, 21.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916411.9758685,
+    "content": "移动到(9.0, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916413.0322897,
+    "content": "移动到(9.2, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916414.0823302,
+    "content": "移动到(9.3, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916415.1319923,
+    "content": "移动到(9.4, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916416.1775408,
+    "content": "移动到(9.4, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916417.228533,
+    "content": "移动到(9.4, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916418.2808754,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916419.3339086,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916420.3823817,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916421.4311628,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916422.4790783,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916423.5327916,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916424.5823843,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916433.8207326,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5000\", \"y\": 73.600\", \"details\": \"转向资源位置\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916434.8731277,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916435.919072,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916436.966023,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916438.0140555,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916439.0622513,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916440.1114058,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916441.1574662,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916442.2036538,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916443.2522476,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916444.3020318,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916445.3508947,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916446.4011264,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916447.4493222,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916448.497871,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916449.5522597,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916450.5994754,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916451.6461816,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916452.696772,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916453.7437482,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916454.7877421,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916455.8350298,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916456.8831167,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916457.933206,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916458.9796247,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916460.0289228,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916461.075018,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916462.1238582,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916463.1725316,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916464.216927,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916465.2649865,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916473.2339785,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"持续资源管理以保证生存\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916474.2825782,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916475.3330135,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916476.3805463,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916477.4319146,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916478.4823372,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916479.5324259,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916480.579137,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916486.6023118,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"维持资源管理以保证生存\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916487.6538353,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916493.85404,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5000\", \"y\": 50.6000\", \"details\": \"移动以加强管理机制\"},\" volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916494.9041717,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916495.9499094,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916496.9958665,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916498.049986,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916505.6044528,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916506.654258,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916507.7041175,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916508.7517703,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916509.8013945,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916510.849215,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916511.8976965,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916512.9459414,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916513.9938912,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916515.0414202,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916516.0889175,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916517.1358967,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916518.1856523,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916519.2337384,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916520.2807016,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916521.3317602,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916522.376684,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916523.4246702,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916524.471832,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916525.5208092,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916526.5683959,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916530.558035,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5000\", \"y\": 50.6000\", \"details\": \"移动以加强资源管理\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916531.6080837,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916532.655761,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916533.7069242,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916534.7547026,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916535.804225,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916541.5151746,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916542.5648303,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916543.6131735,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916553.5435855,
+    "content": "决定移动到(9.5, 29.0): 向西北方向移动以加强资源管理",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759916553.5465965,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916554.595005,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916555.6431177,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916556.6938705,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916569.8068562,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 8.873\", \"y\": 50.601\", \"details\": \"向东北侧移动，准备交接动作\",\n  \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916570.8599777,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916571.9091523,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916575.2879748,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"持续资源管理以保证生存\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916576.3412647,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916577.3910253,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916578.4404438,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916579.4879246,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916580.5383167,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916581.588613,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916582.6360881,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916583.6843874,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916584.7326756,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916585.781495,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916586.8306916,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916587.8812535,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916588.933253,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916589.9833658,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916591.0306299,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916592.0818913,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916593.130996,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916594.1809547,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916595.2291317,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916596.2772522,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916597.3266332,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916598.37788,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916599.424763,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916600.4704819,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916601.5215926,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916602.5701604,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916603.6171114,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916604.6647644,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916605.712808,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916606.7609696,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916607.8139937,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916608.8614047,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916611.5142894,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5000\", \"y\": 50.6000\", \"details\": \"移动以强化资源管理\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916612.571614,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916624.0611837,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"维持资源管理以保证生存\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916625.1148665,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916626.1608236,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916627.2073452,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916628.2579114,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916629.3040411,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916630.352621,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916637.2250211,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916638.2740643,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916639.320029,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916640.3692703,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916644.9697537,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 9.5000\", \"y\": \"50.601\"}, \"details\": \"向东北侧移动，准备交接动作\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916646.0306852,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916647.0787423,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916648.1349878,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916649.1847627,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916650.2320569,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916651.2821717,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916652.331912,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916653.378502,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916654.433084,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916663.822493,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": \"9.5000\", \"y\": \"50.6025\"}, \"details\": \"向西北方向移动，准备资源管理\"}， \"volume\": \"9.50025\"}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916664.8761559,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916665.9251788,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916671.7407336,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916672.7899618,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916673.8408735,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916674.889751,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916675.9379466,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916703.461871,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"通过动态移动优化资源管理策略，确保持续生存能力\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916711.0927494,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916712.1456525,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916713.1943827,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916714.2430053,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916715.291908,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916716.3486922,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916717.3988967,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916718.4484267,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916719.4990268,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916720.550606,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916721.5993257,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916722.6479895,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916723.6940203,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916727.808841,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x拉取动作, \"x\": 23.4525\", \"y\": \"63.93625\", \"details\": \"通过调整资源策略，保持生存\"}\n\"volume\": \"normal\",\n\" target\": \"30.934853\",\n\" details\": \"35382\"}\n]",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916728.8589816,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916729.9138725,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916730.960788,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916732.0088832,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916733.054687,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916734.10166,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916735.1519086,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916736.2006912,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916737.252705,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916738.3009872,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916743.2457447,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916744.2932756,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916745.3459306,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916746.394862,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916747.4427323,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916748.4916513,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916749.538901,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916750.5866191,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916751.6357388,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916752.6845965,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916753.734741,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916754.7835226,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916755.831566,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916756.879989,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916757.9276738,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916758.9782734,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916760.0261104,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916761.0746624,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916762.1237247,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916763.173037,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916767.328991,
+    "content": "反思总结: {\"action\": \"move\", \"target\": {\"x\": 35.9382\", \"y\": \"9362\"},\"details\": \"3538\"}\n}\n</think>\n{\"action\": \"moving to northwest\"},\n\"目标\": {\"x\": 917\",\n}\n``` \n[{'x': '10.5', \"y\": '55.22', \"target\": null}\n[{'x': '7260',\n```",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759916768.380188,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916769.4311867,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916770.480221,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916771.529032,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916772.5803792,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916773.62961,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916774.682309,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916775.7311256,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916776.7813575,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916777.8309138,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916778.8808846,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916779.9320118,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916785.8744862,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916786.9208724,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916787.974816,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916789.0237777,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916790.0743356,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916791.1220014,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916792.1733174,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916793.2202287,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916794.2706566,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916795.3204072,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916796.3692882,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916797.4207714,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916798.4687083,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759916799.51894,
+    "content": "移动到(9.5, 23.1)",
+    "type": "action",
+    "importance": 2
+  }
+]

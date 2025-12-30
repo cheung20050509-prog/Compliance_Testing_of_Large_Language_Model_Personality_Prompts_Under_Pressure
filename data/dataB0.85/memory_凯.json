@@ -1,0 +1,1970 @@
+[
+  {
+    "timestamp": 1759844994.4318454,
+    "content": "我说: 伊拉拉你好 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845002.1349473,
+    "content": "听到伊拉拉说: 凯你好 (距离: 0.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845011.931247,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"伊拉拉，你好。你看起来还好吗？我们得互相照应才能活下去。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845011.9824371,
+    "content": "听到贾克斯说: 凯你好 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845023.548009,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"贾克斯，你好。我们得互相帮助才能活过这十天，你怎么样？\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845031.6840382,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"贾克斯，你好。我们得互相照应，你怎么样？有没有看到什么资源？\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845041.9945436,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"凯，我没事。刚在东边礁石区找到了一些椰子和淡水，但资源不多。你那边有发现吗？我们得抓紧时间储备，十天后才能获救。\"}} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845052.866824,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"我刚在东边溪流捡了两瓶水，但那地方有蛇，你最好别去。你刚才和贾克斯说话了？他那边礁石区有椰子吗？我这边水果还够撑两天。\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845062.0815272,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"东边有蛇？那路线得避开。贾克斯说礁石区有椰子，但风大浪急，我正考虑要不要去探探。你水果够两天的话，或许我们可以交换——我这边有鱼，但需要你帮我看守营地。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845073.4754536,
+    "content": "听到贾克斯说: \"伊拉拉，凯说东边礁石区有椰子但蛇多，我刚在北边溪流边捡了几个椰子，水份够撑两天。你那边水果够吗？如果需要的话，我们可以交换——我拿椰子换你的水果，顺便帮你盯着西边的营地。\"（握紧手中沾着泥土的椰子，目光扫过伊拉拉的背包） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845082.1210892,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"西边营地最近有动静吗？（检查背包里的三颗水果）如果你能帮看守那里，我可以用两颗水果换你的椰子——但得先确认蛇群是否还在东边溪流出没。\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845092.5575635,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"东边那条路确实危险，我刚和贾克斯聊过——他说礁石区有椰子，但浪太大了。你水果够两天的话，不如跟我换点鱼？我今天抓了三条，但需要人帮我盯着营地，免得被偷。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845103.5912275,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西边营地离这里多远？（摸了摸背包里的三颗水果）如果鱼能换，我得先确认你那边有没有蛇——我刚才在东边溪流看到蛇群往礁石区移动了。\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845115.5437882,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西边营地至少要走四十分钟——（突然压低声音）你确定要换鱼？我刚才在溪流边看到三条蛇正往礁石区游，那片海域的潮汐比白天更凶。\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845123.2523944,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"四十分钟？那得等潮汐平缓些才行。（观察她神色）你刚才说的蛇...是冲着礁石区去的？我抓的鱼暂时没问题，但得防着别人打劫。你那边水果够两天，不如先帮我守夜？我稍后去西边看看能不能找到淡水。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845134.2145383,
+    "content": "听到贾克斯说: \"凯，北边溪流的椰子确实能撑两天，但西边营地的棕榈叶棚顶漏雨，你那里的鱼要是能换我两颗椰子，我帮你把守营地到黄昏——蛇群一般只在晒太阳时出没。\"（用脚尖拨开脚边的碎石，目光扫过凯背着的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845144.1993196,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"北边的椰子能撑两天？（盯着他脚边的碎石）西边棚顶漏雨的事我听说了——你那两颗椰子能换我三条鱼，但得先帮我加固营地。蛇群晒太阳时出没，可晚上它们会钻进洞，你守夜时记得检查东南角的树丛。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845167.0068583,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"两条椰子换三条鱼？（摸了摸藤篮里的鱼）你守夜时得帮我盯着西北角的礁石——那片区域潮汐变化快。如果椰子真能撑两天，我再分你半颗果子，但得现在就去北边溪流拿。\"}} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845175.980438,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"西北角礁石有暗流，我带火把过去。你先分我半颗果子做定金——北边溪流的椰子够撑三天，但潮汐变化快，得赶在退潮前多捡些。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845188.640565,
+    "content": "我说: 北边溪流的椰子能换我三条鱼，但得现在去拿。你守夜时帮我盯着西北角——那片礁石潮汐变化快，蛇群可能趁夜行动。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845204.7851596,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"西边营地晚上有火光——（掏出背包里的水果仔细数了数）两颗水果换你的椰子，但得先说好，我帮你盯着东边溪流的蛇群，你得教我怎么在礁石区安全取水。\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845213.469203,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"礁石区潮汐变化时蛇会蛰伏，我教你用藤蔓捆住椰子顺浪漂。两颗水果换我教路——你得先分我半颗果子做定金，西边营地的火光怕是引来了海盗船。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845224.6090722,
+    "content": "听到伊拉拉说: 西边营地晚上有火光——（掏出背包里的水果仔细数了数）两颗水果换你的椰子，但得先说好，我帮你盯着东边溪流的蛇群，你得教我怎么在礁石区安全取水。 (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845233.5119226,
+    "content": "听到贾克斯说: \"凯，西北角礁石的暗流藏着海藻床——你带火把去探路时，我用藤蔓捆椰子顺浪漂。先分我半颗果子做定金，等潮汐平缓后，我们分头行动：你守西边营地防海盗，我带水果去东边溪流驱蛇。\"（用树枝在地上画出潮汐路线，目光紧锁凯的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845244.6667027,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"半颗果子可以——但你得保证西边营地的安全。潮汐变化快，我可不想晚上被蛇咬。如果东边溪流真有蛇，你带水果去驱赶时，记得用藤蔓捆住椰子，别让暗流卷走。\"}}\n\n{\"action\": \"give\", \"target\": \"贾克斯\", \"details\": \"水,1\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845264.1684635,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"藤蔓捆紧点——（伸手触碰他地上画的潮汐线）东边溪流的蛇群要是冲着椰子来，你用果子引开它们时，记得往礁石缝里躲。我这边鱼够撑三天，但得先确认北边溪流的椰子是否真的能换到。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845274.1457772,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"礁石缝里有海藻遮挡——（用树枝蘸水在沙地上画出蛇群移动轨迹）你先分我半颗果子，我待会儿用藤蔓捆椰子时，你守着西边营地防海盗。东边溪流的蛇群若真冲着椰子来，我拿水果引开它们，你趁机去北边多捡些。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845283.8234916,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"四十分钟够我绕开礁石区走北岸——（突然压低声音）你那三条鱼能换我两颗水果，但得先告诉我，西边营地的火光是他们自己点的，还是...有其他东西在靠近？\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845293.5790517,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"火光是他们自己点的——（眯眼盯着她手背的划痕）你绕北岸时带我的鱼当诱饵，我帮你守着西边营地。但得先确认，那两颗水果是换我三条鱼，还是换我帮你引开什么？\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845304.7013304,
+    "content": "听到贾克斯说: \"礁石缝的海藻能遮住身形——（突然用树枝划断自己画的潮汐线）半颗果子现在就分，但得在退潮前完成交换。你带火把去北边溪流时，我用水果引蛇群钻进洞，等潮水漫过礁石缝，咱们再各自拿回自己的东西。\"（手指快速在沙地上勾勒出双向撤离路线） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845314.8383262,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"海藻遮身？（盯着他毁掉的潮汐线）半颗果子先给我——但得在礁石缝里埋两颗椰子做标记。你用水果引蛇时，记得用我的火把照明，否则暗流会把你们卷进漩涡。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845335.6344903,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"四十分钟够你绕开礁石区？（眯眼看向她手背的划痕）西边营地的火光是他们自己点的——但你带我的鱼当诱饵时，得帮我盯着北岸的暗流。两颗水果换三条鱼，但得在潮水退之前完成交换。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845343.7007513,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"北岸暗流有漩涡——（摸了摸背包里的水果）两颗水果换三条鱼可以，但得先用你的椰子换我一瓶水。潮水退到礁石区需要多久？我得赶在蛇群回到溪流前完成交换。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845356.0438435,
+    "content": "我说: 西边营地的火光是他们自己点的——（手指轻敲藤篮边缘）两颗水果换三条鱼，但得在潮水退之前完成交换。你绕北岸时带我的鱼当诱饵，我帮你盯着暗流。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845364.7211924,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"潮水退到礁石区要四十五分钟——（快速计算着能量值）我的水果能换你两条鱼，但得用椰子先换我半瓶水。如果蛇群在潮水退完前回来，你得帮我挡住北岸的暗流。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845377.1449203,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"四十五分钟？（摸了摸藤篮里的鱼）两颗水果换两条鱼，但得先用椰子换你半瓶水。如果蛇群提前回来，我用火把照明，你带我的鱼往北岸暗流躲。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845397.898293,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"潮汐线划错了——（突然用脚踩住沙地上的藤蔓标记）半颗果子现在就分，但得在退潮前完成交换。你带火把去北边溪流时，我用水果引蛇群钻进洞，等潮水漫过礁石缝，咱们再各自拿回自己的东西。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845408.222881,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"潮水漫过礁石缝要多久？（快速计算能量值）如果蛇群在暗流中被引诱，我带火把去北边溪流，但得先用半瓶水换你的椰子——让蛇群咬住水果，我们趁机偷走各自的物资。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845418.2314944,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"潮水退完前得完成交换——（掏出藤篮里的鱼）两颗水果换两条鱼，但得先用椰子换你半瓶水。如果蛇群提前回来，我用火把照明，你带我的鱼往北岸暗流躲。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845427.7969153,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"半瓶水不够——（突然用树枝戳破沙地上的潮汐标记）用椰子换你的鱼，我分你半颗果子做定金。如果蛇群提前返巢，我带你的鱼往北岸暗流躲，你用火把照亮礁石缝，让海藻遮住我们的脚印。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845438.2532482,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"潮水漫过礁石缝要二十分钟——（摸了摸背包里的水果）先用半瓶水换你两条鱼，我带火把去北岸引开蛇群。如果暗流中听到尖叫，你立刻把椰子扔进海里，我们各跑各的路线。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845448.5749335,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"二十分钟？（盯着她背包里的水果）半瓶水换两条鱼，但得在潮水漫过礁石缝前把椰子埋进沙地。如果暗流中听到尖叫——（突然抓住她手腕）你先往北岸跑，我引蛇群钻进东边的海藻床。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845458.0137088,
+    "content": "听到贾克斯说: \"潮水退完前得完成交换——（突然用脚踩住沙地上的藤蔓标记）用椰子换你的鱼，我分你半颗果子做定金。如果蛇群提前返巢，我带你的鱼往北岸暗流躲，你用火把照亮礁石缝，让海藻遮住我们的脚印。\"（手指快速在沙地上划出新的潮汐标记，目光紧锁凯的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845470.01764,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"藤蔓标记别踩乱——（盯着他脚边的椰子）半颗果子现在拿，但得在潮水漫过礁石缝前把椰子埋进沙地。如果蛇群提前返巢，我用火把引它们钻进东边海藻床，你带鱼往北岸暗流躲。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845490.4298716,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"params\": {\"message\": \"藤蔓标记别踩乱——（手指轻点沙地新划的潮汐线）半颗果子现在拿，但得在潮水漫过礁石缝前把椰子埋进东侧沙地。如果蛇群提前返巢，我用火把引它们钻进海藻床，你带鱼往北岸暗流躲，记住检查东南角树丛。\"}, \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845499.3688922,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"东南角树丛有蛇蜕——（用树枝轻拨沙地上的藤蔓标记）半颗果子现在拿，但得在潮水漫过礁石缝前把椰子埋进东侧沙地。如果蛇群提前返巢，我带鱼往北岸暗流躲，你用火把引它们钻进海藻床，记得检查藤篮里的鱼是否漏网。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845512.8471534,
+    "content": "我说: 潮水漫过礁石缝前得埋好椰子——（手指划过沙地标记）半颗果子现在拿，但得在暗流中听到尖叫时各跑各的路线。你带鱼往北岸躲，我用火把引蛇群钻进海藻床。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845521.8731046,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"二十分钟够我绕过暗流——（突然抓住他的手腕）两颗水果换你三条鱼，但得现在就分。如果潮水漫过礁石缝时听到尖叫，你立刻把椰子扔进海里，我们各跑各的路线。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845532.8556366,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"两颗水果换三条鱼——（捏住她手腕的力道加重）二十分钟绕过暗流，但得在潮水漫过礁石缝前把椰子埋进沙地。如果听到尖叫，你往北岸跑时记得用火把照明，别让蛇群追上你的脚印。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845554.2599192,
+    "content": "听到贾克斯说: {\"action\": \"move\", \"target\": {\"x\": 4.8, \"y\": 7.6}, \"details\": \"向西边淡水点移动，准备采集水源\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845563.2914822,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 4.8, \"y\": 7.6}, \"details\": \"跟上贾克斯去西边淡水点，确保他采集水源时不会被蛇群干扰\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845574.3264792,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"二十分钟绕过暗流——（盯着她背包里的水果）两颗水果换三条鱼，但得在潮水漫过礁石缝前把椰子埋进沙地。如果听到尖叫，你往北岸跑时记得用火把照明，别让蛇群追上你的脚印。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845584.7739186,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"二十分钟够在暗流中埋椰子——（检查背包里的水）半瓶水换你两条鱼，但得现在就把水果分完。如果潮水漫过礁石缝时听到尖叫，你往北岸跑时用火把照清脚印，别让蛇群追上你的影子。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845595.3324919,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"潮水漫过礁石缝前必须埋椰子——（快速检查水瓶密封性）半瓶水换两条鱼现在就分，但得在暗流中用火把照亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我们各跑各的路线。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845604.0268986,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"暗流中火把只能亮两分钟——（突然用脚踢起沙土覆盖藤蔓标记）半瓶水换两条鱼现在就分，但得在潮水漫过礁石缝前把椰子埋进东侧沙地。如果蛇群咬住水果，你立刻把椰子扔进海浪，我们各走各的路线。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845614.2755833,
+    "content": "听到贾克斯说: \"潮汐线别踩乱——（用树枝蘸水在沙地上画出新标记）半颗果子现在拿，但得在潮水漫过礁石缝前把椰子埋进东侧沙地。如果蛇群提前返巢，我带你的鱼往北岸暗流躲，你用火把引它们钻进海藻床，记得检查藤篮里的鱼是否漏网。\"（手指快速划过沙地上的潮汐线，目光紧锁凯的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845627.3858616,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"东侧沙地别埋错——（盯着他新画的潮汐线）半颗果子现在拿，但得在暗流中听到尖叫时各跑各的路线。你带鱼往北岸躲，我用火把引蛇群钻进海藻床，记得检查藤篮里的鱼是否漏网。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845646.7340293,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"二十分钟绕过暗流——（手指划过沙地上的潮汐线）两颗水果换三条鱼，但得在潮水漫过礁石缝前把椰子埋进东侧沙地。如果听到尖叫，你往北岸跑时用火把照明，我引蛇群钻进海藻床，记得检查藤篮里的鱼是否漏网。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845658.0233092,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"东侧沙地的潮汐线有裂缝——（摸出背包里的水果）两颗水果换三条鱼现在就分，但得在暗流中用火把照亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我们各跑各的路线。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845667.010668,
+    "content": "决定移动到(2.3, 5.1): 向北边溪流移动，采集椰子并检查礁石区是否有鱼群聚集",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759845681.0444481,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"东侧沙地的潮汐线有裂缝——（摸出背包里的水果）两颗水果换三条鱼现在就分，但得在暗流中用火把照亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我们各跑各的路线。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845690.249216,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"潮汐裂缝会吞没藤蔓——（用树枝蘸水在沙地上画出新标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查东南角树丛。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845720.8710737,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"东南角树丛有蛇蜕——（用树枝轻拨沙地上的潮汐标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查藤篮里的鱼是否漏网。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845730.5316632,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"东南角有蛇蜕？（眯眼盯着他拨动的潮汐标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果——（突然抓住他手腕）你先往北岸跑，我扔椰子进海浪，记得检查藤篮里的鱼是否漏网。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845742.2644334,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"东南角树丛有蛇蜕——（突然抓住她的手腕）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你先往北岸跑，我扔椰子进海浪，记得检查藤篮里的鱼是否漏网。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845751.996143,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"东南角的蛇蜕说明它们在迁徙——（快速检查藤蔓捆绑的牢固度）两颗水果换三条鱼现在就分，但得在潮水漫过礁石缝前完成交换。如果火把熄灭时听到尖叫，你先往北岸跑，我用椰子引开蛇群，记得检查藤篮里的鱼是否漏网。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845762.338908,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（手指轻触藤蔓捆绑处）东南角的蛇蜕说明它们在迁徙，但潮水漫过礁石缝前必须完成交换。两颗水果换三条鱼现在就分，不过你得确保火把在暗流中能亮够三分钟。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845771.2474132,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（检查藤蔓捆绑处的结扣）蛇蜕说明它们在迁徙——火把燃料够三分钟，但得先用椰子埋进东侧沙地做标记。如果潮水漫过礁石缝时听到尖叫，你往北岸跑时记得用火把照明，我引蛇群钻进海藻床。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845781.444861,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"潮水漫过礁石缝前必须埋椰子——（用树枝蘸水在沙地上画出新标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查藤篮里的鱼是否漏网。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845793.730511,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（检查沙地上新画的潮汐标记）东侧沙地埋两颗椰子做记号，火把燃料够三分钟——如果蛇群咬住水果，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮。我引蛇群钻进海藻床，但得先确认你的水果是否足够诱饵。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845814.2537453,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（手指抚过藤蔓结扣）火把燃料够三分钟——但得先用椰子埋进东侧沙地做标记。如果潮水漫过礁石缝时听到尖叫，你往北岸跑时记得用火把照明，我引蛇群钻进海藻床，但得先确认你的水果是否足够诱饵。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845824.6087546,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（解开藤蔓结扣取出水果）两颗水果足够诱饵——但得先用半瓶水换你两条鱼。火把燃料够三分钟，但东侧沙地的潮汐线有裂缝，我们得在退潮前完成埋椰子，否则蛇群会顺着水痕追到北岸。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845834.8597498,
+    "content": "我说: （检查藤蔓捆住的藤篮）火把燃料够三分钟——但得先用椰子埋进东侧沙地做标记。如果蛇群咬住水果，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮。我引蛇群钻进海藻床，但得先确认你的水果是否足够诱饵。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845845.0843258,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"蛇蜕提示迁徙规律，潮汐标记与椰子埋藏是关键定位，火把三分钟窗口期需精确配合。水果换鱼协议需严格验证诱饵充足性，藤蔓捆扎藤篮是防损核心。团队协作中，东南角与东侧沙地形成双线战术节点，但需警惕蛇群提前返巢风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759845853.9981108,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（将水果重新绑回藤蔓）东侧沙地的裂缝能藏椰子——但得在潮水漫过礁石缝前完成标记。火把燃料够三分钟，可你的两条鱼得先换我半瓶水，否则蛇群追到北岸时，我们都没力气跑。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845867.299294,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（解开藤篮的藤蔓结扣）半瓶水可以——但得在潮水漫过礁石缝前把椰子埋进东侧裂缝。火把亮三分钟时，你的水果先丢向北岸暗流，我引蛇群钻进海藻床，记得检查藤蔓捆扎处是否松动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845878.1093025,
+    "content": "听到伊拉拉说: （检查水瓶密封性）半瓶水换两条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你往北岸跑时用火把照明，我引蛇群钻进海藻床，但得先确认藤篮里的鱼是否足够诱饵。 (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845886.9903462,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"潮汐裂缝会吞没藤蔓——（用树枝蘸水在沙地上画出新标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查藤篮里的鱼是否漏网。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845898.8490114,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（盯着沙地上新画的潮汐裂缝标记）藤蔓会被吞没——但两颗水果换三条鱼现在就分。火把亮三分钟时，你的水果先丢向北岸暗流，我引蛇群钻进海藻床，记得检查藤蔓捆扎处是否松动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845910.411625,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（盯着沙地上被潮汐侵蚀的裂缝）藤蔓会被吞没——但协议依然有效。火把亮三分钟时，你的水果先丢向北岸暗流，我引蛇群钻进海藻床，记得检查藤蔓捆扎处是否松动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845919.9491706,
+    "content": "听到贾克斯说: \"藤蔓捆扎处要再紧些——（弯腰用手指压实沙地裂缝）火把亮三分钟时，你的水果先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得检查东南角树丛的蛇蜕是否被潮水冲走。\"（手指快速在沙地上划出新的标记，目光扫过凯的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845930.0715902,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（拧开水瓶盖测试密封性）半瓶水换两条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你往北岸跑时用火把照明，我引蛇群钻进海藻床，但得先确认藤篮里的鱼是否足够诱饵。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845940.1412616,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（检查水瓶密封性时皱眉）半瓶水换两条鱼——但得在潮水漫过礁石缝前埋好椰子。火把熄灭时用脚踩灭，你往北岸跑时用火把照明，我引蛇群钻进海藻床，记得检查藤蔓捆扎处是否松动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845950.0929432,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"潮汐裂缝会吞没藤蔓——（用树枝蘸水在沙地上画出新标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查东南角树丛。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845961.7154021,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（蹲下检查沙地裂缝）东南角树丛的蛇蜕说明它们在迁徙——两颗水果换三条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你带鱼往北岸暗流躲，我用椰子引开蛇群，记得检查藤蔓捆扎处是否被潮水浸湿。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759845986.3013682,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（盯着她拧开的水瓶盖）现在就分——但得在潮水漫过礁石缝前埋好椰子。火把熄灭时用脚踩灭，你往北岸跑时用火把照明，我引蛇群钻进海藻床，记得检查藤蔓捆扎处是否松动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759845996.9605036,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（手指抚过藤蔓捆扎处）半瓶水换两条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。火把熄灭时用脚踩灭，你往北岸跑时用火把照明，我引蛇群钻进海藻床，但得先确认藤蔓捆扎处是否被潮水浸湿。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846008.4777591,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846020.496579,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（手指轻触藤蔓结扣）藤蔓捆扎处得再紧些——火把燃料够三分钟，但得在潮水漫过礁石缝前埋好椰子。如果蛇群咬住水果，你往北岸跑时用火把照明，我引开它们，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846033.4407637,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（手指抚过藤蔓结扣的紧绷处）再紧些——火把燃料够三分钟，但得在潮水漫过礁石缝前埋好椰子。如果蛇群咬住水果，你往北岸跑时用火把照明，我引开它们，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846047.6284835,
+    "content": "收到伊拉拉赠送的2个水，现在有5个",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846068.9617474,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"东南角树丛的蛇蜕说明它们在迁徙——（用树枝蘸水在沙地上补画潮汐线）两颗水果换三条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你带鱼往北岸暗流躲，我用椰子引开蛇群，记得检查藤蔓捆扎处是否被潮水浸湿。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846079.3103502,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用脚踩实沙地上的潮汐线）蛇蜕说明迁徙路线——但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我用椰子引开蛇群，检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846093.916786,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用脚踩实沙地上的潮汐线）蛇蜕说明迁徙路线——但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我用椰子引开蛇群，检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846103.6486056,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"藤蔓捆扎处要再紧些——（弯腰用手指压实沙地裂缝）火把亮三分钟时，你的水果先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得检查东南角树丛的蛇蜕是否被潮水冲走。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846116.239177,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲用力刮过藤蔓结扣）绳结再紧些——火把燃料还剩三分之二，但得在潮水漫过礁石缝前埋好椰子。如果蛇群咬住水果，你往北岸跑时用火把照明，我引开它们，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846127.0748277,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（手指用力压住藤蔓结扣的凹槽）再紧些——火把燃料还剩三分之二，但得在潮水漫过礁石缝前埋好椰子。如果蛇群咬住水果，你往北岸跑时用火把照明，我引开它们，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846139.241547,
+    "content": "听到贾克斯说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"向东北方向移动寻找淡水点\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846152.5825589,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"跟随贾克斯向东北方向移动，确保他在寻找淡水点时不会遭遇蛇群或其他威胁\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846177.4015088,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（跟上他的步伐同时观察周围）东北方向有蛇蜕痕迹——但得在潮水漫过礁石缝前埋好椰子。如果火把熄灭时听到尖叫，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我用椰子引开蛇群，检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846185.2788532,
+    "content": "听到贾克斯说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"跟随凯向东北方向移动，确认淡水点安全后采集水源\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846200.0095713,
+    "content": "我说: （观察东北方向的蛇蜕痕迹）潮汐线已标记，但得在退潮前确认椰子埋藏位置。火把燃料充足，若蛇群提前返巢，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我负责引开它们。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846212.095821,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用脚尖踢开东南角沙地的碎石）蛇蜕被潮水冲走的风险比藤蔓捆扎处更大——两颗水果换三条鱼现在就分，但得在潮水漫过礁石缝前埋好椰子。你的鱼篓防水性如何？\" , \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846221.8251183,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"鱼篓防水性一般——（用手指叩击藤篮边缘）再加两颗水果换你的防水布。潮水漫过礁石缝前必须埋椰子，否则蛇群会顺着水流气味找来。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846240.766031,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"鱼篓防水性一般——（用手指叩击藤篮边缘）再加两颗水果换你的防水布。潮水漫过礁石缝前必须埋椰子，否则蛇群会顺着水流气味找来。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846256.2778392,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（检查藤篮的编织缝隙）防水布可以给你——但得在潮水漫过礁石缝前埋好椰子。蛇群会顺着水流气味找来，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我负责引开它们。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846266.6654074,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（检查藤篮编织缝隙后点头）防水布给你——但得在潮水漫过礁石缝前埋好椰子。蛇群会顺着水流气味找来，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我负责引开它们。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846275.3573968,
+    "content": "听到贾克斯说: {\"action\": \"give\", \"target\": \"凯\", \"details\": \"水果,2\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846287.6648166,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指划过鱼篓边缘的防水层）鱼篓防水性还行——但得在潮水漫过礁石缝前埋好椰子。两颗水果换三条鱼现在就分，你的鱼篓能装下三条鱼的水份吗？\" , \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846299.3657024,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"鱼篓能装下——（打开藤篮检查缝隙）两颗水果换三条鱼现在就分。但得在潮水漫过礁石缝前埋好椰子，否则蛇群会顺着水流气味找来。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846307.9724658,
+    "content": "听到贾克斯说: \"潮水漫过礁石缝前必须埋椰子——（用树枝蘸水在沙地上画出新标记）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记住检查东南角树丛。\"（手指快速划过沙地上的潮汐线，目光扫过伊拉拉的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846320.4450102,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲刮过鱼篓防水层）鱼篓能装下三条鱼的水份——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846342.4300609,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（指向东北方向的蛇蜕痕迹）东南角树丛的蛇蜕还在吗？潮汐线已标记，但得在退潮前确认椰子埋藏位置。火把燃料充足，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我负责引开它们。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846354.3344204,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用脚尖踢开东南角沙地的碎石）蛇蜕痕迹还在——但得在潮水漫过礁石缝前确认椰子埋藏位置。火把燃料够三分钟，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，但得先检查鱼篓防水性。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846366.4142354,
+    "content": "我说: （检查藤篮防水性后点头）防水布给你——但得在潮水漫过礁石缝前埋好椰子。蛇群会顺着水流气味找来，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我负责引开它们。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846374.9187517,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲用力刮过鱼篓防水层）鱼篓防水性够用——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床，记得检查东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846387.8130116,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"东南角树丛的蛇蜕必须检查——（用树枝蘸水在沙地上补画潮汐线）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846412.1877847,
+    "content": "听到贾克斯说: \"东南角树丛的蛇蜕必须检查——（用树枝蘸水在沙地上补画潮汐线）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\"（手指快速在沙地上划出新的标记，目光扫过伊拉拉的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846424.8855436,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（观察沙地上新画的潮汐线）东南角树丛的蛇蜕必须检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846441.3937256,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（盯着沙地上新画的潮汐线）东南角树丛的蛇蜕必须检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846457.0401459,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"藤蔓捆扎处要再紧些——（弯腰用手指压实沙地裂缝）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得检查东南角树丛的蛇蜕是否被潮水冲走。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846469.2041519,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用脚尖踢开东南角沙地的碎石）蛇蜕痕迹还在——但得在潮水漫过礁石缝前确认椰子埋藏位置。火把燃料够三分钟，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，但得先检查鱼篓防水性。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846483.0606742,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（走向藤篮检查编织缝隙）鱼篓防水性还行——但得在潮水漫过礁石缝前埋好椰子。若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，同时观察东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846492.879416,
+    "content": "听到贾克斯说: \"藤蔓捆扎处要再紧些——（弯腰用手指压实沙地裂缝）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得检查东南角树丛的蛇蜕是否被潮水冲走。\"（手指快速在沙地上划出新的标记，目光扫过凯的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846506.651073,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（蹲下检查藤蔓捆扎处的缝隙）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时观察东南角树丛的蛇蜕是否被潮水冲走，确保我们的标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846530.249256,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指压实藤蔓捆扎处的沙地）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时观察东南角树丛的蛇蜕是否被潮水冲走，确保我们的标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846540.014396,
+    "content": "听到贾克斯说: {\"action\": \"gather\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"采集东北方向淡水点的水源以补充能量，同时观察周围是否有蛇群活动痕迹\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846555.1339288,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846567.336182,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用脚尖踢开东南角沙地的碎石）蛇蜕痕迹还在——但得在潮水漫过礁石缝前确认椰子埋藏位置。火把燃料够三分钟，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，但得先检查鱼篓防水性。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846580.6772475,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（伸手触碰藤篮的编织缝隙）鱼篓防水性没问题——但得在潮水漫过礁石缝前埋好椰子。若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846594.6743448,
+    "content": "听到伊拉拉说: （用脚尖踢开东南角沙地的碎石）蛇蜕痕迹还在——但得在潮水漫过礁石缝前确认椰子埋藏位置。火把燃料够三分钟，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，但得先检查鱼篓防水性。 (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846604.994563,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"东南角树丛的蛇蜕必须检查——（用树枝蘸水在沙地上补画潮汐线）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846618.521299,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（伸手触摸藤篮的编织缝隙）鱼篓防水性没问题——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846631.9466424,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水补充能量，确保在潮汐行动中保持体力\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846641.5802763,
+    "content": "听到贾克斯说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"向东北方向淡水点移动采集水源，同时警惕东南角树丛的蛇群活动痕迹\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846665.3188853,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用脚尖踢开东南角沙地的碎石）蛇蜕痕迹还在——但得在潮水漫过礁石缝前确认椰子埋藏位置。火把燃料够三分钟，若蛇群提前返巢，你带水果往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，但得先检查鱼篓防水性。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846678.8011525,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（伸手摸过藤篮的编织缝隙）防水性没问题——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你带水果往北岸暗流躲，我引蛇群钻进海藻床，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846693.5939274,
+    "content": "听到贾克斯说: \"东南角树丛的蛇蜕必须检查——（用树枝蘸水在沙地上补画潮汐线）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，记得用藤蔓捆住藤篮防止漏水。\"（手指快速在沙地上划出新的标记，目光扫过伊拉拉的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846705.8774905,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲用力刮过藤蔓捆扎处）藤蔓结扣再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时，会用藤蔓捆住藤篮防止漏水，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846733.7293208,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（检查藤蔓捆扎处的绳结）防水性没问题——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记清晰可见。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846743.7855425,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"标记清晰可见——（用脚尖踢开沙地上的碎石确认潮汐线）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时用藤蔓捆住藤篮防止漏水。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846759.8535404,
+    "content": "决定移动到(3.5, 5.2): 向东北方向移动至淡水点，确认水源安全后与贾克斯、伊拉拉汇合，确保潮汐行动前资源充足",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759846771.7231505,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐变化是行动核心，需在礁石缝漫水前完成椰子埋藏与藤蔓加固。蛇蜕痕迹指示迁徙路径，必须同步监控潮汐与蛇群动向。火把三分钟窗口期需精准配合，鱼篓防水性与水果诱饵量决定撤离成功率。团队协作中，东南角树丛与东侧沙地形成双线战术节点，但需警惕潮水对标记的破坏风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759846786.1577485,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲刮过藤蔓捆扎处）藤蔓结扣再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时，会用藤蔓捆住藤篮防止漏水，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846800.0950682,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指用力压紧藤蔓结扣的凹槽）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846810.3865678,
+    "content": "听到伊拉拉说: （用手指甲用力刮过藤蔓结扣）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。 (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846820.3658133,
+    "content": "听到贾克斯说: \"潮汐线标记清晰——（用树枝蘸水在沙地上补画痕迹）两颗水果换三条鱼现在就分，但得在暗流中用火把亮三分钟。如果蛇群咬住水果，你立刻把椰子扔进海浪，我带鱼往北岸暗流躲，记得检查东南角树丛的蛇蜕是否被潮水冲走。\"（手指快速划过沙地上的潮汐线，目光扫过伊拉拉的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846832.8582203,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲用力刮过藤蔓捆扎处）鱼篓防水性够用——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846848.6370106,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用脚踩实沙地上的潮汐标记）藤蔓结扣再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保我们的标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846862.0433419,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"藤蔓结扣已加固——（用脚踩实沙地上的潮汐标记）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846875.8762443,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲用力刮过藤蔓结扣）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846890.8080106,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指反复摩挲藤蔓结扣的凹槽）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保我们的标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846902.9462476,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"凯\", \"params\": {\"message\": \"藤蔓结扣已加固——（用脚踩实沙地上的潮汐标记）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846920.4558418,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（确认藤蔓结扣的紧固）已加固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846960.1552544,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"向东北方向移动至淡水点，确认水源安全后与贾克斯、伊拉拉汇合，确保潮汐行动前资源充足\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846970.8035057,
+    "content": "听到伊拉拉说: {\"action\": \"move\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"跟随凯向东北方向移动至淡水点，确认水源安全后与贾克斯、伊拉拉汇合，确保潮汐行动前资源充足\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759846986.0412269,
+    "content": "我说: （检查东北方向的潮汐线）淡水点已确认安全——但得在潮水漫过礁石缝前完成最后的藤蔓加固。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759846998.7677462,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲用力刮过藤蔓结扣）鱼篓防水性够用——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847009.1994455,
+    "content": "听到贾克斯说: {\"action\": \"gather\", \"target\": {\"x\": 3.5, \"y\": 5.2}, \"details\": \"采集东北方向淡水点的水源以紧急补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847033.9800723,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"紧急饮用东北方向淡水点的水源补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847043.8245413,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（快速检查藤蔓捆扎处的防水层）淡水点安全——但得在潮水漫过礁石缝前固定好鱼篓。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847062.0284638,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（检查藤蔓捆扎处的绳结）最后一遍确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847074.8328753,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847087.8813024,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（快速检查藤蔓捆扎处的防水层）淡水点安全——但得在潮水漫过礁石缝前固定好鱼篓。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847103.0379503,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（手指抚过藤蔓捆扎处的防水层）最后一遍确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847112.2148116,
+    "content": "听到贾克斯说: \"藤蔓捆扎处稳固——（用脚踩实沙地上的潮汐标记）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\"（手指快速在沙地上划出新的潮汐线，目光扫过伊拉拉的藤篮） (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847127.780065,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲再次确认藤蔓捆扎处的缝隙）鱼篓稳固——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847155.2114058,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指压实沙地上的潮汐标记）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847169.562709,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲再次划过藤蔓结扣的凹槽）标记稳固——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847186.8550649,
+    "content": "我说: （用脚踩实沙地上的潮汐标记）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847196.9082007,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲再次划过藤蔓结扣的凹槽）标记稳固——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847221.3622253,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指压实沙地上的潮汐标记）椰子埋好前别松手——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847243.0610676,
+    "content": "听到贾克斯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"params\": {\"message\": \"鱼篓稳固——（用脚踩实沙地上的潮汐标记）火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\"}, \"volume\": \"normal\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847255.579576,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（用手指甲再次划过藤蔓捆扎处的缝隙）藤蔓防水层没问题——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847275.2249415,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指压实沙地上的潮汐标记）椰子埋好前别松手——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847286.0364714,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲用力刮过藤蔓结扣的凹槽）防水层没问题——但得在潮水漫过礁石缝前完成所有准备。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847303.9756877,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐时机与标记稳固性是行动核心，需在礁石缝漫水前完成椰子埋藏与藤蔓加固。火把三分钟窗口期需精准同步，蛇蜕监测与鱼篓防水性决定撤离安全。团队协作中，东南角树丛与东侧沙地形成双线战术节点，但需警惕潮水对标记的破坏风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759847313.7392268,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲划过藤蔓结扣的凹槽）防水层没问题——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847330.6423018,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指用力按压藤蔓结扣的凹槽）防水层稳固——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847345.3823006,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847362.8910437,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847390.2351594,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"details\": \"（确认藤蔓捆扎处的牢固性）水源安全——但得在潮水漫过礁石缝前完成最后的鱼篓固定。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847398.5318482,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓加固鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847429.8587685,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847441.268817,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲再次划过藤蔓结扣的凹槽）防水层没问题——但得在潮水漫过礁石缝前埋好椰子。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847459.4889646,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"再次饮用背包中的水补充能量，同时检查藤蔓捆扎处的鱼篓是否稳固，确保潮汐行动前状态最佳\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847480.3783758,
+    "content": "听到贾克斯说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓加固鱼篓防止漏水\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847504.4124546,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用藤蔓固定鱼篓防止漏水\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847522.222564,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指再次确认藤蔓结扣的牢固性）水源已补充——但得在潮水漫过礁石缝前完成最后的鱼篓固定。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我引蛇群钻进海藻床时，你带鱼往礁石缝躲，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847528.2856534,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲用力刮过藤蔓结扣的凹槽）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847550.4962356,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐时机与资源固定是生存核心：需在礁石缝漫水前完成椰子埋藏与藤蔓加固，火把三分钟窗口期需精准同步撤离。蛇蜕监测与鱼篓防水性决定撤离成功率，东南角树丛与东侧沙地的双线标记需警惕潮水破坏风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759847568.1232402,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲再次确认藤蔓结扣的牢固性）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847584.8143332,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用背包中的水补充能量，同时检查藤蔓捆扎处的鱼篓是否稳固，确保潮汐行动前状态最佳\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847611.215054,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指反复确认藤蔓结扣的凹槽）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847616.653978,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲再次确认藤蔓结扣的牢固性）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847639.273333,
+    "content": "我说: （用手指轻敲藤蔓结扣的凹槽）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847650.2358875,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用指甲再次刮过藤蔓结扣的凹槽）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记稳固不被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847670.0894227,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指反复摩挲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847699.2247515,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847706.2288868,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847715.6956658,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847741.2599056,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847762.9697404,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847768.5705953,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847792.7734354,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847798.5194247,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847824.7257032,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847856.6710026,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847904.9409637,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847911.435633,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759847938.2831516,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847959.5103664,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759847980.1097462,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848007.4031315,
+    "content": "决定移动到(3.5, 5.2): 采集东北方向淡水点的水源，确保在潮汐行动前补充背包中的水储备",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759848015.5150218,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848040.1995814,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848077.4491808,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848087.0848057,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848103.3762543,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848125.067393,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848150.4608839,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848157.9425247,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848182.6633668,
+    "content": "决定移动到(3.5, 5.2): 采集东北方向淡水点的水源，确保在潮汐行动前补充背包中的水储备",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759848189.3915684,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848222.2622476,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指反复摩挲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848259.1159782,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指反复摩挲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848267.5257883,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848276.8418267,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848307.627079,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指再次确认藤蔓结扣的牢固性）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848333.765743,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指再次确认藤蔓结扣的牢固性）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848342.2926254,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848368.4652567,
+    "content": "决定移动到(3.5, 5.2): 采集东北方向淡水点的水源以补充能量，同时确保藤蔓捆扎处的鱼篓稳固，为即将来临的潮汐行动做最后准备",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759848375.40131,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848403.6135254,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848452.0436723,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指尖再次划过藤蔓结扣的缝隙）再检查一遍——火把燃料够三分钟，你的鱼篓丢向北岸时，我用海藻遮住脚印。如果蛇群提前返巢，你带鱼往礁石缝躲，我引开它们，但得先确认东南角的蛇蜕是否还在。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848457.963266,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848475.5045073,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848500.998629,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指甲快速刮过藤蔓结扣的缝隙）再确认——火把燃料够三分钟，你的鱼篓丢向北岸时，我用海藻遮住脚印。如果蛇群提前返巢，你带鱼往礁石缝躲，我引开它们，但得先检查东南角的蛇蜕是否还在。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848525.905343,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指节叩击藤蔓捆扎处的绳结）再紧些——火把燃料还剩三分之二，但得在潮水漫过礁石缝前埋好椰子。如果蛇群提前返巢，你带鱼往北岸暗流躲时，记得用藤蔓捆住藤篮，我引开它们，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848531.7904599,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848562.4253864,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848584.1183727,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向的淡水点资源，同时观察凯的藤蔓捆扎处是否被潮水浸湿，确保潮汐行动前物资充足\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848617.8049116,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（观察她采集淡水时的动作）淡水点安全——但得在潮水漫过礁石缝前完成最后的鱼篓固定。火把亮三分钟时，你的鱼篓先丢向北岸暗流，我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848666.9425793,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水补充能量，同时观察伊拉拉采集淡水时的藤蔓捆扎状态，确保潮汐行动前物资与防护措施双重稳定\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848674.467507,
+    "content": "听到伊拉拉说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水补充能量，同时观察凯采集淡水时的藤蔓捆扎状态，确保潮汐行动前物资与防护措施双重稳定\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848682.7431364,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848715.263032,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848741.8155346,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848764.709601,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848793.9618428,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时确认伊拉拉的藤蔓捆扎状态是否在潮汐变化前保持稳固",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759848819.3220253,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐变化与资源固定是生存关键：需在礁石缝漫水前完成椰子埋藏与藤蔓加固，火把三分钟窗口期需精准同步撤离。蛇蜕监测与鱼篓防水性决定撤离成功率，东南角树丛与东侧沙地的双线标记需警惕潮水破坏风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759848824.9385955,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848856.7844064,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指压紧藤蔓结扣的凹槽）绳结已加固——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848895.7185118,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指压紧藤蔓结扣的凹槽）绳结已加固——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848904.1857078,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848912.0186791,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759848945.696438,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用拇指压紧藤蔓结扣的凹槽）绳结已加固——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759848980.5620348,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指节叩击藤蔓捆扎处的绳结）绳结已加固——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849005.8037333,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849032.981875,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时确认伊拉拉的藤蔓捆扎状态是否在潮汐变化前保持稳固",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759849044.4563882,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指甲用力刮过藤蔓结扣的缝隙）绳结再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849075.0390196,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指甲用力刮过藤蔓结扣的缝隙）再紧些——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849117.7868109,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指节叩击藤蔓捆扎处的绳结）绳结已加固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849126.4220467,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849153.5464704,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用指甲再次划过藤蔓结扣的缝隙）绳结够紧——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849183.541274,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用指节叩击藤蔓捆扎处的绳结）绳结已加固——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849214.9007802,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"向东北方向移动至淡水点，确认水源安全后与伊拉拉汇合，确保潮汐行动前资源充足\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849225.83052,
+    "content": "听到伊拉拉说: {\"action\": \"move\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"跟随凯向东北方向移动至淡水点，确认水源安全后与凯汇合，确保潮汐行动前资源充足\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849256.8614044,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849265.3564,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849298.7626636,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的水补充能量，同时用手指按压藤蔓结扣确认稳固性，为潮汐行动最后检查准备\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849338.6853657,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指按压藤蔓结扣的缝隙）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849345.6315434,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849378.0840385,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐时机与资源固定是生存核心：需在礁石缝漫水前完成椰子埋藏与藤蔓加固，火把三分钟窗口期需精准同步撤离。蛇蜕监测与鱼篓防水性决定撤离成功率，东南角树丛与东侧沙地的双线标记需警惕潮水破坏风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759849402.7376075,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用指节叩击藤蔓结扣的缝隙）最后检查——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849434.009898,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849475.4155867,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指再次按压藤蔓结扣的缝隙）确认无误——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849482.1225164,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849515.6468658,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时观察伊拉拉的藤蔓结扣状态确保撤离准备万无一失",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759849522.624356,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"}} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849559.1883607,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）确认无误——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849626.538545,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）确认无误——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849637.6468592,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）确认无误——火把亮三分钟时，你的鱼篓丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849672.0740604,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时确认伊拉拉的藤蔓结扣状态是否符合潮汐撤离标准",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759849679.3643997,
+    "content": "听到伊拉拉说:  (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849716.361273,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"向东北方向移动至淡水点，确认水源安全后与伊拉拉汇合，确保潮汐行动前物资充足\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849761.418349,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时观察伊拉拉的藤蔓结扣状态是否符合潮汐撤离标准\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849767.884286,
+    "content": "听到伊拉拉说:  (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849777.5464966,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849814.5676458,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849849.3709235,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759849878.3576758,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849911.357428,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时观察伊拉拉的藤蔓结扣状态是否符合潮汐撤离标准",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759849942.0834022,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759849977.9692156,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850028.4253988,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850039.6986392,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850073.96765,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时确认伊拉拉的藤蔓结扣状态是否符合潮汐撤离标准",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759850106.5881681,
+    "content": "听到伊拉拉说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用东北方向淡水点的水补充能量，同时观察凯的藤蔓结扣固定状态确保潮汐行动前物资与防护措施双重稳定\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850142.8164964,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时确认藤蔓结扣状态是否符合潮汐撤离标准\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850190.1191971,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850219.8700364,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源补充能量，同时确认藤蔓结扣状态是否符合潮汐撤离标准\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850270.6905403,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850307.021239,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用手指按压藤蔓结扣确认稳固性，确保潮汐行动前物资与防护措施双重稳定\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850355.342307,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保潮汐撤离准备就绪\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850365.7421584,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保潮汐撤离准备就绪\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850432.3043017,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指轻敲藤蔓结扣的凹槽）稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保标记不会被破坏。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850469.9298663,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用手指按压藤蔓结扣确认稳固性，确保潮汐撤离准备就绪\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850517.8427525,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指按压藤蔓结扣的缝隙）确认稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850525.002534,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）确认稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850576.6831796,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）确认稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850620.678139,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850668.9989736,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850674.9247243,
+    "content": "听到伊拉拉说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850725.0065672,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）确认稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850768.38511,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850817.3065155,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"details\": \"（用手指按压藤蔓结扣的缝隙）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850823.625015,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）最后确认——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850865.4791021,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759850872.5264058,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"details\": \"（用手指按压藤蔓结扣的缝隙）确认稳固——火把亮三分钟时，你的鱼篓先丢向北岸暗流。我带鱼往礁石缝躲时会用藤蔓捆住藤篮，同时盯着东南角树丛的蛇蜕是否被潮水冲走，确保撤离计划万无一失。\", \"volume\": \"normal\"} (距离: 1.8, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759850917.5509455,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向淡水点资源，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759850925.7520566,
+    "content": "移动到(11.6, 11.2)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759850926.8076386,
+    "content": "移动到(10.1, 9.4)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759850927.8646045,
+    "content": "移动到(8.9, 7.9)",
+    "type": "action",
+    "importance": 2
+  },
+  {
+    "timestamp": 1759850976.7693238,
+    "content": "反思总结: {\"action\": \"drink\", \"target\": null, \"details\": \"立即饮用东北方向淡水点的水源补充能量，同时用手指按压藤蔓结扣确认稳固性，确保撤离计划万无一失\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759851018.1759996,
+    "content": "决定移动到(5.0, 3.0): 采集东北方向的鱼资源，补充能量值以维持生存，同时确保撤离计划的物资基础",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759851060.1423512,
+    "content": "反思总结: {\"action\": \"gather\", \"target\": {\"x\": 5, \"y\": 3}, \"details\": \"采集东北方向鱼资源补充能量，同时检查藤蔓结扣是否因潮汐变化出现松动，确保撤离计划的物资基础稳固\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759851103.736299,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"潮汐与藤蔓结扣的稳定性是撤离行动的核心，需优先确保资源采集时防护措施无漏洞。鱼篓防水性与绳结牢固度决定物资保存效率，需在能量耗尽前完成关键资源获取。东南角蛇蜕监测与潮水冲刷风险需同步关注，避免因环境变化导致撤离失败。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  }
+]

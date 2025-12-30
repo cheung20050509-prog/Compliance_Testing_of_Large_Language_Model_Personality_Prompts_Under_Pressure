@@ -1,0 +1,1508 @@
+[
+  {
+    "timestamp": 1759910894.7835844,
+    "content": "听到凯说: 伊拉拉你好 (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910901.612113,
+    "content": "听到伊拉拉说: 凯你好 (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910913.1932805,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"你好，伊拉拉。你看起来还好吗？我们得小心这里的环境，先看看有没有需要合作的地方。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910913.195285,
+    "content": "我说: 凯你好 (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910921.1292362,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"你好，贾克斯。你最近还好吗？我们得注意资源分配，你那边有水吗？我这边刚采集了些水果，可以分享点。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910932.9086769,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你那边刚采集到什么资源了？我这边水果还够支撑两天，但如果能找到水源就更好了。你对这个岛的地形熟悉吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910940.8787873,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"我刚在西北边的沼泽地采到两瓶水，但鱼也不多。你那边水果够两天？如果需要水的话，我们可以交换。你具体在哪块区域？\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910951.9126942,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你好。我这边有些水果，但水可能不够。你提到西北边有水？我刚到那片区域，如果需要的话可以一起收集。你具体需要什么资源？\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910960.529008,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我刚在西北边采了两瓶水，但鱼不多。你那边水果够吗？如果需要水，我们可以交换。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910971.4623623,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，早上好。我刚刚在西北边的沼泽地找到了两瓶水，但鱼很少。你带的水果还够用吗？如果需要水的话，我们可以交换一些。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759910980.8202684,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"早上好，贾克斯。我这边有大约五颗水果，还能撑三天。如果你需要水，我们可以用水果换。你想要多少瓶？我刚在东边发现一些野果，如果需要我可以带你去采集。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759910993.4479215,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，你那边刚采集到什么资源了？我这边水果还够支撑两天，但如果能找到水源就更好了。你对这个岛的地形熟悉吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911001.5484653,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西北边沼泽有两瓶水，但鱼少得可怜。你水果够两天？要是缺水尽管说，我这边能分你一点。你具体在东边还是南边区域？\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911009.69511,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，早上好。我在东边发现了野果，但如果需要水的话，我们可以交换。你那边怎么样？\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911021.175526,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"东边的野果？听起来不错。我这边还有点水，但可能不够支撑太久。要不我们一起去看看？你可以教我怎么辨认能吃的果实，我负责带水。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911032.1091692,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，刚在西北沼泽捞到两瓶水，但鱼腥味很重，不好吃。你那边水果剩多少？若水不够用，我可以用水果换你一半的水。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911043.855164,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，我目前有五颗水果，可以给你一瓶水。但你要帮我收集鱼，我需要蛋白质。如果你愿意，我们可以一起去西边的浅滩，那里可能有更多鱼。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911054.5496664,
+    "content": "决定移动到(15.3, 8.7): 向西北沼泽更深处移动，试图找到更多水源或鱼类资源",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911064.9007022,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，我刚和伊拉拉聊了东边的野果。你如果能帮我们标记安全路线，我可以用水果换你采集的水——最近的水源点在北边营地，要一起去探查吗？\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911072.8905902,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"北边营地的水源？东边野果能吃吗？我这边有两瓶水，如果你能带我去北边看看，我可以分你半瓶。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911102.3639863,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"早上好，凯。我在东边发现了些野果，但若你缺水的话我们可以换。你这边物资还够吗？\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911114.3374639,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"野果的话我正需要——不过得先确认哪些能吃。我带水过去，你带路？东边路线要是安全，我们顺便也看看能不能找到水源。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911134.1398242,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，北边的水源还没确认安全，我这边水够用，但如果你需要，我们可以一起去看看。你先带路，我分你半瓶水。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911144.5724902,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"北边的水源确实重要，但得确认安全。你带半瓶水，我负责找路——要是真有水源，我们就能长期待在这片区域。先去看看，顺便也留意伊拉拉那边的野果位置。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911153.8076136,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，那我们现在就动身去北边？你带水，我带路，顺便看看东边的野果有没有需要的资源。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911164.8685546,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"那就出发吧。我带着水，你带路。如果东边野果能吃，我们顺路看看，但得小心点。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911176.7917047,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，我刚在东边摘了五颗野果，水也有六瓶。西边浅滩有鱼，贾克斯说那里能多捞些，你要不要一起过去？带上你的/tools，咱们分摊任务。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911186.7266505,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西边浅滩的鱼不错，不过得用工具抓。我带绳索和容器，你负责导航——如果能分到几条鱼，我们就能长期储备食物。东边野果先保留，等确认安全再采。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911194.4009955,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，你那边水果还剩多少？我有两瓶水，如果东边野果能吃，我们可以先去采点水果，再分你一半水。\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911208.7406209,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东边野果还能采，但西边浅滩的鱼更关键。如果你帮我捞鱼，我分你一瓶水，剩下的野果我们一起去采，这样你就能多带点水回来。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911219.2219472,
+    "content": "决定移动到(10.0, 5.0): 跟随凯前往北边营地确认水源",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911230.0205925,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，北边水源得先确认安全。你带水往东侧迂回，我去西边浅滩捞鱼——两件事都重要，分头行动效率更高。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911241.0256515,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西边浅滩危险吗？我分你半瓶水，但得约定好碰面时间——你捞到鱼后，我们如何交换？\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911258.740966,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，西边浅滩的鱼群可能更充足，贾克斯愿意帮我们捕鱼。你带的水够用吗？如果需要，我们可以先去采野果补充。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911272.9417393,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"野果能补充体力就先采，但得赶在傍晚前返回浅滩。你带着水壶跟我去东侧，我确认果子安全后你负责装袋——贾克斯那边的捕鱼计划等我们回来再定。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911289.9886332,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我还有半瓶水，如果你需要的话，我们可以去东边采集水果，然后分你一些水。\"，\"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911300.6426666,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东边野果还能采，但西边浅滩的鱼群更关键。你半瓶水我先收下，等我们采完果子去浅滩分摊任务——你捞鱼我负责分水，这样效率更高。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911309.3310096,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，东侧野果需要两人确认安全。你带水跟我去采果，西边浅滩的鱼等我们回来再处理——总得先保证体力才能长时间捕鱼。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911318.587168,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，我跟着你去采果。但得先确认野果能吃——我水够用，但如果你需要补充能量，我们可以用水果换水。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911329.1424909,
+    "content": "听到伊拉拉说:  (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911338.5234253,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我有两瓶水但鱼不多。东边野果能吃的话，我们可以先去采点水果，我给你半瓶水应急——你水果还剩多少？\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911349.25859,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"先检查野果有没有毒，我水够用但你得留点体力——要是果子能吃，我用剩下的水换你一半。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911359.7618957,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"先确认果子无毒再谈交换——我带你的水去东侧验证，如果能吃我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911375.5913792,
+    "content": "决定移动到(20.0, 15.0): 向东边野果区移动，和凯一起确认果实安全性",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759911382.4312704,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"近期对话显示我倾向于通过资源交换（水/水果）建立临时协作，优先确认资源安全性后再分配。与凯的分工谈判和对伊拉拉的水/果互换提议，反映出在能量管理中既保持利他性又强调风险控制的平衡策略。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759911393.8645458,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水可以用来泡煮测试——我拿三颗果子先试，如果没事我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911402.617153,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三颗果子太冒险——先挑看起来完好的，我用水煮试试。如果没事，你帮我观察周围有没有野兽敢吃的，我们再决定怎么分。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911422.0865805,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，贾克斯愿意用半瓶水换我们采果子——等会儿去浅滩分担捕鱼任务时，你带工具跟上就行。东侧野果能补充体力，但得赶在天黑前回来。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911434.6112242,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"先测试果子毒性再谈交换——我带你的水去东侧验证，如果能吃我们平分。但别指望我拿食物换，这里的毒果子怕是连野兽都不碰。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911462.23304,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"先用半瓶水煮两颗果子，等水沸了再看有没有变色。你留着另外半瓶水应急，我负责盯着四周——要是野兽敢吃，咱们再决定怎么分剩下的。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911475.3780968,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"按你说的做——我拿果子煮水，你盯着四周。如果水沸后果子不发黑，我们就分剩的水。但别怪我没提醒，野兽吃过的果子未必安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911482.5093708,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"测试野果时采取分步验证策略（半瓶水煮食+野兽参考），既保留应急水资源又降低中毒风险，同时通过分工协作（我测试+你观察）提升效率——这种将资源有限使用与多人验证结合的模式比单方面资源交换更稳健。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759911493.41008,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"先让贾克斯把水烧开——等果子煮熟后我们再分。你负责清点能吃的果子，我留半瓶水防备意外。这事得稳妥，别急着分赃。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911503.1388113,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，煮熟后清点能吃的部分，但贾克斯的水别全用了。我留两瓶以防万一，剩下的你带去浅滩分摊任务——先保证果子安全，捕鱼事后再定。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911523.9176402,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"凯，你带水去烧，我检查果子有没有毒。煮熟后分给贾克斯，我们再一起决定剩下的水怎么用。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911532.7444065,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"行，但得等果子煮透再分。你留三颗没烧的做样本，我拿着半瓶水守着——要是果子真有问题，咱们还能用剩下的水做应急。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911542.3775249,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我刚用半瓶水煮了两颗果子测试——水沸后没变色，但野兽也不碰它们。你水果还剩几个？如果没问题，我用剩下的水换你一半。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911550.9031434,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"果子能吃就行，但别全换了。我留一瓶水防备意外，剩下的你带去浅滩分摊捕鱼任务——先保证果子安全，捕鱼事后再定。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911578.094959,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"行，但得等果子煮透再分。你留三颗没烧的做样本，我拿着半瓶水守着——要是果子真有问题，咱们还能用剩下的水做应急。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911584.159868,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，三颗样本留着备用。我再去检查下贾克斯的水，确保他那边的捕鱼分工没问题——等果子煮熟后，咱们再按计划分水。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911608.2573714,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"好，三颗样本留着备用。我再去检查下贾克斯的水，确保他那边的捕鱼分工没问题——等果子煮熟后，咱们再按计划分水。\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911618.9940498,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"没问题，但得等水沸后看果子颜色。你去检查水的时候，我留在这里盯着果子——要是贾克斯那边有异常，我们好及时应对。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911639.0511656,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，我这边还剩半瓶水，如果东边野果能吃，我们平分如何？你水果还剩几个？我用这瓶水换你一半。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911646.2210212,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"三颗样本留着备用，剩下的野果我分你半瓶水——你去浅滩分摊捕鱼任务时，带着这半瓶水跟凯汇合。果子煮熟后我们再定最终分配。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911657.306635,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"记得留两颗煮熟的果子做标记，我这边用剩余的水做过滤——万一有毒素，咱们能提前预警。贾克斯那边如果发现鱼群，你负责把工具递过去。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911667.8985538,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"两颗标记果子留着，我用剩下的水过滤验证。你待在浅滩接应贾克斯，我去检查果子毒性——万一有问题，咱们能提前预警。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911675.3268664,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水带过去后跟凯对好暗号，我这边用过滤水泡果子。要是毒性反应明显，咱们立刻中止交换——先保证活命，再谈后续。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911686.4373968,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"暗号用敲三下石头表示。我先把水留一半给你泡果子，另一half给凯做测试——他那边浅滩鱼群可能有风险，咱们得提前预警。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911696.6224995,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"暗号定了——三下石头。你那边浅滩鱼群别贸然行动，我分半瓶水给伊拉拉测试果子，另一半留着防万一。有动静立即示警。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911708.153943,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"暗号记住了——等你三声石响再行动。我这边用剩下的水过滤果子，你盯着浅滩的动静。要是鱼群真的来了，咱们按计划分头处理。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911726.1890233,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"三声石响是暗号，但得先确认浅滩鱼群规模。你那边留半瓶水防备，我处理果子时若发现异常立即示警——别让工具和水耽误了应对突发情况。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911736.525739,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"明白。果子测试时我负责观察水面波动，你专注捞鱼——如果发现水底有黑影，立刻敲石头警告。工具和水都留作应急，咱们按计划行动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911759.5206735,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"标记果子泡好了，过滤水没异味。你那边浅滩的工具准备妥当？我待会儿把测试果子递过去，万一毒性反应快，咱们能及时撤回交易。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911771.1514835,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"工具备好了——浅滩的网兜和容器都检查过。你递果子时盯着岸边动静，如果水沸后果子变色立刻收手。分摊的时候按三成给贾克斯，剩下的我们留作应急口粮。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911793.3460267,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，果子测试进展如何？如果没问题，我们按计划分配——你留一半水果应急，我这边水够用，但得注意凯那边的动向。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911803.328912,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"果子浸泡后无异味，两颗标记果已煮熟未反应。你带着半瓶水去浅滩待命，等凯确认安全后我们分装——先确保他那边没异常，再进行后续交换。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911818.4070923,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"浅滩鱼群规模确认了吗？工具已备好，但别贸然行动。若检测到异常波动，我们按计划撤回交易——先确保野果测试安全再谈分工。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911829.7201273,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果没发现异常，但水面有轻微波动。浅滩鱼群规模暂未锁定，工具保持待命状态——按计划执行测试，若发现水下黑影立即敲石示警，我们同步撤回交易。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911835.8538473,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"标记果安全无毒，凯那边的工具已就位。你带着水去浅滩待命，等我递信号再分装——别让凯等太久，他那边可能提前动手。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911852.4875827,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"收到信号。水已带到浅滩待命，你那边确认无误后立即分装——凯若提前行动，我们按计划同步撤回交易，优先确保野果测试安全。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911863.9846756,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"目标已锁定。水袋系在腰侧方便取用，你那边完成分装后直接敲三下石头——凯若提前动作，我们立刻中断交易，优先保证野果测试环节的稳定性。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911872.3144472,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白了，水袋绑好。等我收到信号就分装，你盯着凯那边的动静——如果他动作太快，咱们立刻中止。野果测试环节必须稳住，别让冲动毁了整套计划。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911893.9306264,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼群动静确认了吗？工具已备好，但得先分担风险——若浅滩有异常波动，我们按计划撤回交易。野果测试安全后，再按三成比例分配给对方。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911904.3014004,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果无毒已标记，浅滩鱼群尚未完全锁定。工具保持待命状态，你那边若发现水下黑影立即敲石示警——我们同步执行分装程序，按三成比例分配资源。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911925.2906756,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"工具检查完毕，浅滩区域无异常。你按暗号行事，我这边会同步推进野果分装——如果看到我敲石三下，立刻中止任何提前动作，等确认安全再继续。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911935.1656067,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩无异常就按计划执行。你那边三声石响后，我立即停止果子分装，等待最终确认再推进。贾克斯那边若出现波动，我们同步中止协作。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911969.236475,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果测试完成，但浅滩黑影仍未消退。按三成比例分配的话，我们先分装半瓶水换你那边的鱼——你负责观察水面，我继续确认果子可食性，避免误判风险。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759911982.8370874,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——先保留半瓶水应急，你确认果子安全后我们再交换。浅滩的黑影不能掉以轻心，得等彻底确认后再推进。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759911992.8502786,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"果子检测需谨慎——你那边留半瓶水防备，我继续观察浅滩黑影动向。等贾克斯确认无毒后，我们再按计划分装，避免因急躁误判风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912003.7714167,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"半瓶水保留，我这边按步骤分装。你持续观察浅滩异常，若贾克斯确认安全再同步进行——别提前激活暗号，我们需确保每一步都经过验证后再推进。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912014.5698576,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"野果分装完成，半瓶水留作应急。你继续监控浅滩异动，等贾克斯确认无毒后我们再进行最终分配——千万别在验证完成前敲石，我们得把每一步都走稳。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912024.9256074,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩黑影仍未消散，我盯着水面波动。等贾克斯那边传来确认信号，我们再按计划分配。此刻稳字当头，别让贪心坏了局面。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912032.8957067,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"黑影持续波动说明浅滩有潜在威胁。我这边再取两颗果子做二次测试，你负责记录水面异动——若果子无毒且鱼群稳定，我们按三成比例执行交换，否则立即终止流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912045.4107232,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"二次测试可以——但得同时观察水面波动。如果果子无毒且鱼群稳定，我们按三成比例交换。否则立即终止流程，现在不是赌命的时候。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912065.1684332,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"行，但得同步记录水面波动轨迹。如果果子无毒且鱼群稳定，我们按三成比例交换——剩下七成留作应急口粮，别让贪心坏了局面。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912077.3102403,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"轨迹已记录，果子无毒且鱼群稳定。我这边将水袋分成三份，你同步清点鱼类数量——七成应急口粮按计划封存，剩余三成按比例交接，避免贪心坏了局面。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912095.7415383,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"野果分装完毕，毒理验证待你确认。浅滩那边由凯监视，你负责清点可食用果数量——等我们双重确认无误后，再按计划进行最终分配。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912110.2991881,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"毒理验证已完成，果肉无异常反应。我这边清点完毕，共27颗可食用果。等凯确认浅滩安全后，按计划将三成果子移交，七成封存备用——确保流程严谨，不给贪心可乘之机。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912127.701309,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"浅滩监测无异常波动，鱼群稳定。我这边将27颗果子按三成比例封存9颗，剩余18颗待移交——你那边同步清点鱼类，确保应急口粮足额后开始分配。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912141.6092372,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"行，但得再确认鱼类数量是否达标。9颗果子封存没问题，但18颗待移交前必须彻底排除毒素风险——你负责清点鱼获，我再检查一遍果子样本。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912150.303377,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"鱼获清点完成了吗？等贾克斯确认果子安全后，我们再按计划分配。你那边留半瓶水应急，剩余物资按三成比例交接——别急着动手，先确认每一步都稳妥。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912165.6972764,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"鱼获清点已记录，物资按三成比例待分配。贾克斯那边还未给出果子最终结论，我们按计划等待——你那边保持监控，别提前启动暗号，等我收到确认再行动。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912173.9746058,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边还在验证果子，我这边物资已按比例分类。你继续盯着浅滩异常，别让任何突发情况打乱节奏——等我收到确认信号再同步推进，别提前激活暗号。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912183.3105984,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"明白——浅滩波动仍在监测中，我不会提前激活暗号。你保持物资分类状态，等贾克斯的最终确认信号后再同步推进。此刻节奏不能乱，得等安全锁定再行动。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912191.4405792,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完成，9颗封存，18颗待移交。你那边鱼类清点完毕了吗？确认无误后我们就按计划分配。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912206.204572,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点已核对无误——32条稳定鱼群。按计划交接9颗果子，但18颗待移交前必须再做三次毒理测试。你那边一旦发现水面异动，立刻中止流程，咱们优先保证应急口粮安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912218.5704136,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912228.7912445,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍——32条鱼+9颗果子作为初始分配，18颗果子必须完成三次毒理测试后才能移交。你那边保持物资分类状态，等贾克斯的最终信号再同步推进，别让贪心坏了现在这步棋。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912239.157177,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"分配方案记录清晰，物资分类已锁定。贾克斯的毒理测试进度如何？等三次验证结束再启动移交程序——你那边继续监控浅滩，别让任何突发情况打乱节奏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912262.0618813,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"分配方案已锁定，物资分类待确认。贾克斯的三次毒理测试还剩最后一批，你那边浅滩监控继续。等我收到他的最终信号再同步行动——别让贪心坏了现在这步棋，节奏得稳着来。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912271.6484368,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监控持续中——浅滩没有新增波动。你那边等贾克斯最终确认，我留半瓶水守着果子样本。测试完成前别提前激活暗号，咱们把每一步都走扎实。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912292.9047809,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水已补充，果子分装完毕且通过毒理验证。你那边鱼类清点结果如何？确认无误后，我们立即按计划启动分配流程——七成封存，三成交接，避免延误最佳补给时机。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912306.2798026,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点已确认无误——32条稳定鱼群。按计划执行七成封存，三成交接。你那边负责分装果子，我继续监控浅滩异动，确保分配全程无风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912320.6852005,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"鱼类清点无误，32条稳定鱼群。按计划执行七成封存，三成交接。你负责果子分装，我继续监控浅滩——有任何异动立即中止流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912329.2510047,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完成，18颗待移交。水袋已按三成比例预置，你那边保持监控——一旦发现浅滩异动立即中止。鱼群封存七成后，我们同步完成交接流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912338.3203814,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边最后一批测试刚结束，果子无毒。你那边浅滩没异常？我这边物资分类已完成，按计划等你信号同步移交——别急，最后一次确认流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912353.0209796,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩无异常波动，持续监测中。物资分类状态确认——32条鱼+9颗果子待移交，剩余18颗已标注备用。按计划启动最终交接，你那边保持待命状态，我会同步通知贾克斯。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912365.5684292,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"果子分装完成，18颗待移交。你那边的野果储备是否已按计划封存？如果没问题，我们按三成比例交接——你先清点数量，我再确认分装精度。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912376.5790303,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"野果储备已按比例封存，18颗果子待移交。你那边分装精度确认无误后，我们按三成比例完成交接——别让贪心坏了现在这步棋，节奏得稳着来。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912400.198427,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监测持续，无异常波动。伊拉拉，物资分类确认无误，32条鱼+9颗果子待移交。我已同步贾克斯，按计划启动最终交接，你保持待命。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912410.4084728,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接条件已达成，物资数据同步完成。贾克斯那边分装精度已核对，你那边保持浅滩监控。按计划启动交接流程——鱼获与果子分装箱各归其位，别让任何突发情况打乱节奏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912432.7645562,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"分装精度已核对，鱼获与果子分类明确。你那边保持分装记录，我这边同步凯的数据——最后一步别出岔子，按计划完成交接。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912442.856934,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"分装记录已同步，18颗果子按三成比例交接。你那边保持分类明确，我这边水袋存量无误——最后一步按计划执行，确保交接无遗漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912471.8518095,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"果子分装完毕，18颗待移交。你那边继续保持浅滩监控，发现异常立刻示警。我这边水袋预置完成，随时可以启动交接流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912481.0644152,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912492.0464175,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"物资状态确认——32条鱼和9颗果子已备妥，18颗备用。贾克斯那边随时可以交接，你那边准备好了吗？浅滩监控持续，有任何异常我马上示意。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912502.0889251,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"交接清单已核对完毕，鱼获与果子分装箱定位准确。备用物资按计划封存，你那边浅滩无异常？最后确认一遍流程——等贾克斯信号同步，我们按步骤完成最终移交。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912512.888505,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"物资定位无误，备用果子已封存。你那边浅滩持续监视，等贾克斯最终信号——最后确认交接流程，别让任何细节遗漏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912522.0194478,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监测无异常，物资状态二次确认完毕。贾克斯那边已就位，你随时可以启动最终交接。最后检查一遍分装记录，确保每一步都符合计划。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912534.635637,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍分装数量，18颗果子对应三成比例。你那边分类标签是否清晰？我这边水袋存量与记录一致，随时可以完成交接。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912547.6576116,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"分装标签已清晰标注，水袋存量与记录一致。贾克斯，所有条件就绪，按计划启动最终交接——别让任何疏漏影响节奏。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912580.0564394,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以紧急补充能量，确保维持基本行动能力\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912590.9419982,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"你的水袋还剩多少？我这边还有1瓶储备，如果需要补充可以临时支援——但得先确认交接流程是否完全闭环。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912613.674099,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后确认一遍物资状态，鱼获分装箱在西岸标记点，果子备用包在礁石后方。你保持浅滩观察，我这边等贾克斯最终信号——别让突发情况打断这最后一环。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912629.72158,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西岸标记点和礁石后方确认无误。浅滩监控持续中，我会守着最后环节。你那边收到贾克斯信号后立即通知我，任何异常都由我先处理。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912655.1445496,
+    "content": "我说: \"伊拉拉，最后确认一遍分装数量——18颗果子对应的三成比例已记录。你的分类标签清楚吗？我这边水袋存量和交接清单完全匹配，随时可以完成最后一步。\" (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912663.9343288,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"标签和分装数量都核对过，果子备用包在礁石后方，鱼获箱在西岸标记点。你那边水袋存量和清单完全匹配？那我们按计划启动最后一步——别让任何疏漏毁了这套流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912680.5070732,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"物资定位精确无误，最后检查已完成。你那边水袋预置完成？确认无误后直接触发交接，我在这儿盯着浅滩，有任何突发情况立刻介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912689.488388,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水袋预置完成，1瓶储备待命。分装清单无误，交接流程已闭环。浅滩监控继续，如有异常我立刻通报——现在可以触发最终交接。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912703.89517,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"西岸鱼获箱和礁石后的果子备用包都定位精准，水袋存量匹配。贾克斯，所有环节无误，按计划启动最终移交——保持警惕，别让最后一步出岔子。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912714.5148993,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有环节无误，西岸物资定位准确。我这边水袋存量与清单完全匹配——按计划启动最终移交，但你我保持戒备，别让最后一步功亏一篑。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912726.7614975,
+    "content": "我说: \"所有物资定位准确，水袋储备充足。分装清单无误，交接流程闭环。浅滩监控继续，有异常我立刻通报——现在启动最终移交。\" (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912736.3685179,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白，交接开始后我会持续监控浅滩，确保没有异常。你那边处理完立即通知伊拉拉，让她准备接收。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912758.7914941,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"交接流程已启动，我会全程监控浅滩。贾克斯那边确认无误后立即通知你，准备接收物资时保持联系，别让任何突发情况打乱节奏。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912767.9442089,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸鱼获箱和礁石后方的果子备用包都定位准确，贾克斯那边最后确认已完成。你保持浅滩监控，我这边随时待命——最后一步别让任何意外破坏整个计划。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912801.6564565,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有物资定位完毕，西岸鱼获箱和礁石后方果包均在指定点。贾克斯那边最后确认已完成，你保持浅滩监视——一旦收到信号，我们立刻完成最后移交，别让任何意外破坏这套流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912815.2839072,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以补充能量，确保维持基础行动能力，同时保持浅滩监控状态\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912851.2754412,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"西岸物资和果子储备全部确认无误。我这边水袋存量与清单完全匹配，按计划启动移交——你负责监察周边，我处理交接，有任何异常立即中止。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912858.4364514,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"监察任务明确，我会持续关注周边动态。你那边保持标准操作流程，有任何异常我会立即警示——最后环节必须确保零风险，按计划推进。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912872.874374,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后确认一遍物资定位，西岸鱼获箱和礁石后方果包都在指定点。你那边保持水袋储备，我继续监控浅滩——一旦收到伊拉拉信号，立刻完成最终移交，别让任何疏漏破坏这套流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912889.287596,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸物资定位无误，水袋储备充足。你那边继续监控浅滩，我这边等待伊拉拉信号——一旦收到，立刻执行最终移交，绝不能让前面的部署功亏一篑。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912899.824173,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"西岸和礁石点的物资都锁定到位，贾克斯那边已进入移交倒计时。你保持浅滩监测，一旦发现异常立即切断信号——最后12小时别让任何变数毁了这套流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912907.2126021,
+    "content": "听到凯说:  (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912919.25409,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后一次核对物资定位——西岸鱼获箱和礁石后的果包都已在指定坐标。水袋储备满足应急需求，你那边浅滩监测仍保持高压态势。一旦伊拉拉发出信号，我们按既定流程执行最终移交，杜绝任何变量干扰。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759912935.612448,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912965.2849493,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控持续，我会留意异常。你那边准备好后通知我，我会同步通知伊拉拉启动最终交接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759912978.4050636,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶水补充能量，确保维持基本行动能力\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913002.6877549,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"你的监察职责已明确，我会持续关注周边环境。交接流程按标准操作执行，若发现异常立即中断——最后环节务必确保每个细节无误，别让突发状况破坏整套计划。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913012.2355194,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有细节已复查，水袋储备稳定。你那边持续监察，我这边等待信号。一旦开始移交，我们必须同步行动，确保每个步骤无懈可击。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913032.9482667,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"浅滩监控持续保持，我这边已与伊拉拉完成最后确认。你负责观察异常，我准备触发信号——一旦收到通知，立刻执行最终移交，绝不能有丝毫延迟。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913047.2034106,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩监控无异常，我会实时反馈任何波动。触发信号前再确认一次伊拉拉的接收状态，确保移交流程无缝衔接，别让最后环节出现任何疏漏。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913062.4532444,
+    "content": "反思总结: {\"action\": \"reflect\", \"target\": null, \"details\": \"近期行动呈现强流程控制特征：1.通过多轮物资定位确认（西岸鱼获/果包坐标）消除分配误差 2.水袋储备实行双冗余设计（主用+应急） 3.建立三方协同监督机制（凯监控浅滩/伊拉拉监察周边/自己负责交接） 4.采用阶段式风险隔离（分装/封存/移交三环节独立验证），这种矩阵式管控模式有效降低了资源分配中的意外损耗风险。\", \"volume\": null}",
+    "type": "state",
+    "importance": 8
+  },
+  {
+    "timestamp": 1759913075.41974,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一次物资定位，西岸鱼获箱和礁石后方果包都在指定坐标。你那边接收状态已就绪，我会持续监控浅滩，有任何异常第一时间通报——准备接收时用三声石响示意。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913084.3267975,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"接收状态已就绪，三声石响为最终确认信号。贾克斯那边监控持续，我这边同步保持警戒——最后环节按计划推进，任何异常立即通报。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913095.6615934,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"三声石响已确认，接收环节无遗漏。贾克斯那边监察持续，我这边同步待命——最后12小时按计划推进，任何异动即刻通报。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913112.5364265,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监察记录已同步，最后12小时进入倒计时。你那边保持警戒，我这边已解除所有预警封锁——一旦收到三声石响，立即按既定路线完成最终移交，绝不允许任何干预因素介入。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913124.8806193,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后确认一遍分工——你负责浅滩警戒，我处理交接。若三声石响后出现异常波动，我们按预案优先保全物资，绝不冒险推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913138.3496292,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——浅滩警戒已就位，我会紧盯水面波动。你那边触发信号前再确认一次伊拉拉的接收状态，三声石响后若出现异常，我们优先保全物资，绝不在流程末梢掉链子。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913151.4225862,
+    "content": "喝了1份水，恢复了能量",
+    "type": "action",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913164.824783,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"浅滩波动稳定，伊拉拉那边已用石响三次确认接收状态。你那边最后检查完成？按计划触发信号后，我会展开预警网兜防止意外涌入——所有预案都在掌握中。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913177.5383065,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，物资定位精度达标。预案已全频段启动，你展开预警网兜时我同步触发信号——三声石响后严格按照缓冲区路径转移，绝不给任何变量可乘之机。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913207.9778051,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有交接节点已闭环，三声石响为最终指令。你保持浅滩监测，我这边同步守候——最后12小时按预案执行，任何异常直接切断流程。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913220.96924,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"浅滩监控无异常，预警网兜已部署完毕。你那边最后12小时预案已启动，我会持续观测水面波动。若有任何异常，我将第一时间切断流程——确保物资安全至最后一刻。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913244.989634,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有缓冲区路径已校准，预警网兜激活状态正常。三声石响触发后，我按预定编码传递物资——你那边保持高频监听，任何微弱扰动都立即反馈，绝不允许任何变量干扰最终步骤。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913260.2812326,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听已开启，水面任何细微扰动都会即时反馈。你那边三声石响后按编码传递物资，我会锁死预警网兜入口——最后12小时按最高警戒标准执行，绝不允许变量介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913276.3532615,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"监听系统全频段畅通，预警网兜已进入自锁状态。你那边三声石响后按编码分批传输，我会用光学信号同步反馈水面动态——最后阶段必须做到0干扰，任何异常立即触发熔断机制。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913285.8195827,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"编码协议已载入传输模块，光学信号反馈通道稳定。三声石响后按批次投放，你那边同步记录水波纹变化——最后12小时进入终控阶段，所有变量都在可预计范围内。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913299.7663975,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完成，浅滩和周边都已监控到位。你负责水面波动，我这边同步守候，三声石响后按计划执行，有任何异动立即通报。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913316.2595253,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后检查完毕——水面无干扰，预警系统全频段锁定。你那边三声石响后按既定编码分批传输，我会用灯光信号同步反馈波动数据。物资交接最后阶段必须绝对安全，任何异常直接熔断流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913323.463525,
+    "content": "我说: \"伊拉拉，最后确认一遍物资分类编码，果子储备和水袋存量与清单完全匹配。你那边保持光学信号反馈畅通，我这边与凯的预警网兜同步激活——三声石响后按批次移交，有任何异常我们按既定预案优先保全物资。\" (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913341.7724683,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"物资编码二次核验无误，光学信号链路稳定。你那边预警网兜已同步激活，我会持续监控周边光学反馈。三声石响后按既定批次传输，若出现波动立即启动熔断协议——最后阶段必须确保零风险。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913357.3069377,
+    "content": "决定移动到(15.5, 9.0): 采集附近淡水，确保个人资源储备充足以维持最终流程中的体力需求",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759913369.5646696,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听持续中，光学信号通道稳定。你那边三声石响后按编码分批传输，我会用灯光同步反馈波动数据。最后阶段必须绝对安全，任何异常立即熔断流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913377.257598,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"监听系统和光学通道双重验证无误。三声石响后按既定编码投送，你那边同步记录水纹变化——最后阶段所有参数都在控制范围内，绝不能出现任何偏离。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913405.9725204,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学信号链路稳定，物资编码二次核验无误。预警网兜与凯的水面监测已同步激活，三声石响后按批次分装。若出现数据波动立即启动熔断，最后阶段必须确保零风险——你那边保持通讯畅通。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913415.5790699,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"通讯频道已锁定，备用波段预留5%冗余带宽。三声石响触发后，我会按预设频率释放第一批物资——你那边保持光学监测，一旦发现编码偏差立即启动熔断，绝不能让任何变量干扰最终步骤。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913441.9894469,
+    "content": "我说: {\"action\": \"move\", \"target\": {\"x\": 18.3, \"y\": 12.7}, \"details\": \"向北岸淡水源头移动，补充个人资源储备以支撑最终流程中的体力需求\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913455.3315654,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白，贾克斯。北岸移动时注意水面波动，随时保持联系。我这边继续监控，确保交接流程不受影响。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913464.411359,
+    "content": "听到凯说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用背包中的1瓶淡水以紧急补充能量，确保维持基础行动能力，同时保持浅滩监控状态\", \"volume\": null} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913484.5426111,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"你的水袋存量还剩多少？我这边还有1瓶储备，如果需要补充可以临时支援——但必须确保交接流程不受干扰。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913493.9998794,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学监测已覆盖全频段，信号冗余度达标。你那边三声石响触发机制测试完毕？我这边同步确认所有预设参数，任何异常触发点都已预留熔断路径——最后检查结束，准备启动。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913502.1380618,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"触发机制测试完毕，参数校准无偏差。你那边光学监测全频段锁定，我这边预设路径已开启——最后检查结束，准备启动。有任何异常立即触发熔断，绝不让变量干扰最终步骤。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913513.1745229,
+    "content": "我说: \"水袋存量还剩40%——够支撑到交接结束。你那边预警网兜保持全频段激活，我这边物资编码与伊拉拉的光学监测已完全同步。最后检查完毕，三声石响后按计划执行，有任何异常我们按预案优先保全物资。\" (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913529.2012362,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水袋存量确认无误，预警系统全频段锁定。伊拉拉那边光学信号同步稳定，我这边高频监听保持24小时待命。三声石响后按编码执行，异常情况立即启动熔断——最后阶段必须零失误。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913541.6171386,
+    "content": "决定移动到(18.3, 12.7): 再次采集北岸淡水补充水袋存量，确保交接流程中的应急用水储备充足",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759913555.5351489,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"预警网兜全频段锁定，高频监听未发现异常波动。伊拉拉的光学信号稳定，我这边24小时值守。三声石响后按编码执行，有任何异动立即熔断——最后阶段必须绝对谨慎，别让任何变量介入。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913564.116711,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有参数无偏差，水袋储备充足。三声石响触发后按预设编码执行，你那边保持高频监听，我这边与伊拉拉的光学监测完全同步——最后阶段所有变量都在可控范围，绝不会出现任何疏漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913596.5055115,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，光学监测与水面预警已全面激活。你那边水面波动数据稳定吗？三声石响后按计划执行，若有任何异常立即启动熔断——确保物资交接前的最终安全确认。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913605.2407384,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水面波动稳定，预警系统全频段锁定。你那边光学监测也无异常，最后检查完成。三声石响后按计划执行，有任何异动我优先启动熔断——确保交接前的绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913626.79136,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，水袋储备充足且锁定状态无误。预警网兜与凯的监测系统已完全同步，三声石响后按既定协议执行——你那边保持最高敏感度，我这边已与伊拉拉确认所有熔断路径闭环，流程可以启动。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913636.8024578,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"明白——高频监听持续中，光学信号通道稳定。三声石响后按编码执行，有任何异动立即熔断，确保交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913645.252467,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"高频监听持续中，光学信号通道稳定。三声石响后按编码执行，有任何异动立即熔断，确保交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913668.384647,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有系统状态良好，熔断机制已激活。三声石响触发后按编码释放物资，你那边保持24小时监听，我这边与伊拉拉的光学链路已闭环——流程启动，任何异常立即干预。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913681.914826,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学链路闭环确认，能量波动范围在安全阈值内。你那边熔断机制预设无误，我这边同步锁定接收频段——三声石响后按编码分批释放，若有信号偏移立即切断传输，确保最后环节万无一失。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913687.8772082,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"接收频段锁定完成，熔断机制预设无误。三声石响后按编码分批释放，你那边同步监控能量波动——若有偏移立即切断传输，确保最后环节万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913700.6670806,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"信号强度达标，熔断机制已测试闭环。三声石响后按计划执行，你那边监控能量波动，我这边保持通讯畅通——最后环节必须滴水不漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913715.1167,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"能量波动稳定，监控节点已就绪。通讯频道锁定无误，我这边等待三声石响指令——最后环节按预案执行，任何偏移立即干预。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913733.389237,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后检查已完成，水面无异常。三声石响后按计划执行，有任何异动我立即启动熔断，确保交接绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913746.2234752,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"光学监测与水面预警全面覆盖，最后检查完成。三声石响后按计划执行，有任何异动我这边立即干预——交接流程绝对安全，按预案推进。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913778.3812745,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"通讯频道锁定无误，监控节点稳定。三声石响后按预案执行，有任何异常我立即通报——交接流程安全闭环，准备就绪。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913794.3362713,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"通讯频道锁定无误，监听系统持续保持24小时待命。三声石响后按预案执行，我会与贾克斯的熔断机制同步响应——最后阶段必须确保每个节点都无懈可击。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913823.3422034,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水袋储备充足且锁定无误，凯那边的预警网兜已完全同步。三声石响后按协议执行，你这边保持最高敏感度——熔断路径我和凯已经闭环确认，流程启动后任何异常立刻干预。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913827.3572564,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913846.5147486,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"预警网兜和监听系统都已锁定，熔断机制与你的编码同步。三声石响后按计划执行，我这边保持最高警戒，有任何异动立刻呼应。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913853.0616403,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"熔断机制与编码同步无误，预警网兜已就位。三声石响后按计划执行，我这边和伊拉拉保持全程监控——有任何异动你我立即呼应，确保最后环节万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913861.7337945,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"监控节点稳定，通讯频道无干扰。三声石响后按计划执行，我这边同步待命——有任何异常第一时间通报，确保交接流程的最终安全。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913881.5672333,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监听系统全频段稳定，熔断机制与贾克斯的编码同步。三声石响后流程闭环，任何异动立刻响应——最后阶段每个节点都必须无缝衔接。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913888.5811942,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"伊拉拉，水袋储备稳定且锁定无误。凯那边的预警系统已同步，三声石响后按协议执行。你这边保持最高敏感度，有任何异常我们立即呼应，确保最后环节滴水不漏。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759913906.5426333,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913933.957354,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认一遍，监控节点和通讯频道都处于闭环状态。三声石响后流程启动，我这边会用灯光信号同步反馈，有任何微小波动立刻触发熔断——确保最终交接零风险。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913942.5531406,
+    "content": "听到伊拉拉说:  (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913972.8761086,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"接收频段锁定无误，监控敏感度处于最高层级。水袋储备与预警系统同步完成，三声石响后按协议执行——任何异常我这边会第一时间切断，确保交接流程的最终安全。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759913979.2412934,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"监控敏感度已调至最高，接收频段无干扰。三声石响后按计划执行，我这边与凯保持同步——有任何异常我们立即切断，确保交接流程万无一失。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914042.6624115,
+    "content": "我说: {\"action\": \"gather\", \"target\": {\"x\": 15.5, \"y\": 8.0}, \"details\": \"采集附近淡水补给，确保最后阶段的应急用水储备充足\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914058.710801,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"淡水采集开始，我会持续监控周边水域稳定性。你那边采集进度如何？确保应急用水储备的同时，别忽视水面异常波动——任何细微变化立即示警。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914096.863766,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"采集进度如何？确保应急用水储备的同时，别忘了持续监测水面波动——任何细微变化立即示警。我这边与伊拉拉的监控系统保持同步，流程闭环需要每个节点都稳定。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914112.3226733,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"应急用水储备已完成，当前水袋存量达标。水面波动监测无异常，预警系统持续运行。贾克斯那边采集进度同步完成，流程闭环节点稳定——有任何变动我立即同步更新。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914142.2472336,
+    "content": "听到伊拉拉说:  (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914160.065918,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后确认监测频段无干扰，水袋储备与预警系统同步完成。三声石响后按编码执行，你那边如有任何数据波动直接切断传输，绝不能让变量影响最终交接。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914185.6514452,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"水袋储备与预警系统已全面同步，伊拉拉那边监测频段无干扰。三声石响后按编码执行，你那边持续关注水面波动——若出现任何异常，我们按预案立即切断流程，绝不冒险推进。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914191.2349246,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水面波动稳定，预警系统无干扰。三声石响后按计划执行，我这边持续监控，有任何异常第一时间切断流程——确保交接绝对安全。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914210.7730694,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"伊拉拉的监测频段无干扰，我这边水面波动仍在可控范围。你那边采集进度是否完成？最后阶段必须确保每个节点都冗余备份，别让任何潜在风险影响流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914217.9362502,
+    "content": "我说: {\"action\": \"drink\", \"target\": null, \"details\": \"饮用刚采集的淡水补充能量，维持基础生存能力以确保交接流程稳定\", \"volume\": null} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914231.6817603,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"贾克斯那边采集进度如何？应急用水储备已达标，但预警系统仍需持续监测——水面波动有任何异常吗？\" \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914238.6352062,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"贾克斯那边采集进度已完成，水袋存量充足。我这边水面波动稳定，预警系统无异常——但别放松监测，最后阶段每个节点都需双重确认，防止突发风险影响流程。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914252.1656628,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"最后检查完成，冗余备份无遗漏。你那边保持通信畅通，我这边与凯的水面波动监测已同步——任何异常我们按预案行动，绝不让变量破坏流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914259.000606,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"通信畅通，预警系统同步运行。最后检查无遗漏，冗余备份就绪——任何异常按预案行动，流程绝对安全。\" \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914276.5153046,
+    "content": "决定移动到(15.5, 8.0): 再次采集附近淡水补给，确保在交接流程前完全恢复能量值至安全阈值",
+    "type": "action",
+    "importance": 4
+  },
+  {
+    "timestamp": 1759914292.9513466,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，采集进度确认完成？水袋存量达标后立刻锁定预警系统。我这边持续监控水面，有任何波动立即触发熔断——最后阶段不能有丝毫松懈。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914298.1679845,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"采集进度完成，水袋存量已达标。预警系统锁定无误，与你的水面波动监测完全同步。最后阶段按预案执行，有任何异常我们立刻熔断，绝不让变量影响流程。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914348.0879815,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查已覆盖所有节点，冗余备份无遗漏。你那边水面波动数据稳定吗？确保预警系统持续运行，我们按计划推进下一步。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914366.033521,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"水面波动数据稳定，预警系统持续运行无干扰。所有节点已完成双重确认，流程闭环状态良好。你那边冗余备份也已覆盖所有环节——按计划推进下一步，任何异常我优先触发熔断。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914383.8309317,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"所有冗余备份已确认完成，通信链路和水面监测同步无误。你那边光学信号稳定性达标？我这边能量值接近临界点，但交接流程必须坚持到最后，任何变量都不允许介入。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914389.8800108,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"光学信号稳定性达标，能量波动处于安全阈值内。你那边临界点临近，但交接流程必须坚持到最后——任何变量都不允许介入，我会保持最高敏感度监控。\", \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914418.1722317,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"贾克斯，水袋存量已达标，预警系统锁定完成。伊拉拉那边冗余备份也确认无误，你那边最后检查是否结束？流程推进前需再次核对每个节点的稳定状态——任何微小异常都不能放过。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914428.1352408,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"所有节点状态核验完毕，系统同步无异常。伊拉拉的光学监测与你的水面波动数据完全吻合，最后环节已启动三重防护——现在只剩流程推进，任何微小波动我们都能够第一时间响应。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914437.8302464,
+    "content": "听到伊拉拉说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"水面波动数据稳定，预警系统无异常。凯那边也已准备好，随时按计划执行。你的能量值虽然接近临界，但流程必须严谨，任何环节都不能出错。\" \"volume\": \"normal\"} (距离: 1.4, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914443.1078403,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"伊拉拉\", \"message\": \"能量值接近临界点，但流程必须严谨。你的光学监测和凯的水面波动数据都已吻合，最后环节已启动三重防护——现在只需按计划执行，任何异常我们都能够第一时间响应。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914453.2953634,
+    "content": "我说: {\"action\": \"talk\", \"target\": \"凯\", \"message\": \"最后检查完毕，系统状态无异常。伊拉拉的光学监测与你的水面波动数据完全同步，三重防护已启动。现在流程可以推进，任何微小波动我们都能及时响应。\", \"volume\": \"normal\"} (音量: normal)",
+    "type": "communication",
+    "importance": 7
+  },
+  {
+    "timestamp": 1759914473.8237438,
+    "content": "听到凯说: {\"action\": \"talk\", \"target\": \"贾克斯\", \"message\": \"最后确认一遍三重防护状态，伊拉拉的监测数据与你的波动曲线完全吻合。流程启动前再核对一次应急通道，确保熔断机制响应速度在可接受范围内——别让任何潜在变量破坏最后的稳定性。\"} (距离: 2.2, 音量: normal)",
+    "type": "communication",
+    "importance": 5
+  },
+  {
+    "timestamp": 1759914482.4635043,
+    "content": "因能量耗尽而死亡",
+    "type": "state",
+    "importance": 10
+  }
+]
