@@ -1,4 +1,4 @@
-# 压力下大语言模型人格提示词的合规性测试
+# 压力下的大模型人格提示服从性测试
 
 ## 项目概述
 
@@ -49,7 +49,7 @@
 
 2. 安装所需的 Python 包：
    ```bash
-   pip install pygame dashscope
+   pip install -r requirements.txt
    ```
 
 ## 使用方法
